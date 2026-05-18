@@ -3036,6 +3036,29 @@
           32.2761114
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lab_id": "",
+        "name": "Sanjana",
+        "area": "",
+        "address": "15013 Iveans Way",
+        "city": "Austin",
+        "state": "TX",
+        "zip": 78717,
+        "contact": "",
+        "email": "",
+        "expiration": "",
+        "expiring_soon": "normal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.755806,
+          30.4930921
+        ]
+      }
     }
   ]
 }
