@@ -4,7 +4,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "02KLNF001",
         "name": "Kleinfelder Laboratory - Irving",
+        "area": "KLEINFELDER ENGINEERING",
         "address": "7805 Mesquite Bend Dr # 100",
         "city": "Irving",
         "state": "TX",
@@ -24,7 +26,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90AEC002",
         "name": "AECOM",
+        "area": "4508 N IH 35",
         "address": "Austin, TX",
         "city": "Austin",
         "state": "TX",
@@ -44,7 +48,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90A&A001",
         "name": "Arias & Associates Inc. - San Antonio",
+        "area": "ARIAS & ASSOCIATES",
         "address": "142 Chula Vista",
         "city": "San Antonio",
         "state": "TX",
@@ -64,7 +70,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90A&A002",
         "name": "Arias & Associates, Inc. - Austin",
+        "area": "ARIAS & ASSOCIATES",
         "address": "13581 Ponds Springs Rd. Suite 210",
         "city": "Austin",
         "state": "TX",
@@ -84,7 +92,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90ABC123",
         "name": "Test Lab, Some City, TX",
+        "area": "DUMMY LAB INC.",
         "address": "123 Jedi St.",
         "city": "Tattooine",
         "state": "TX",
@@ -104,7 +114,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90AG&FIELD",
         "name": "Aguirre & Fields - FTW",
+        "area": "AGUIRRE & FIELDS",
         "address": "1701 River Run Suite 410",
         "city": "Fort Worth",
         "state": "TX",
@@ -124,7 +136,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90AGF001",
         "name": "Aguirre & Fields - Converse",
+        "area": "AGUIRRE & FIELDS",
         "address": "12658 I-10 Frontage Road",
         "city": "Converse",
         "state": "TX",
@@ -144,7 +158,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90ALG001",
         "name": "Alliance Geotechnical Group - Dallas",
+        "area": "ALLIANCE GEOTECHNICAL GROUP",
         "address": "3228 Halifax Street",
         "city": "Dallas",
         "state": "TX",
@@ -164,7 +180,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90ALG002",
         "name": "Alliance Geotechnical Group - Fort Worth",
+        "area": "ALLIANCE GEOTECHNICAL GROUP",
         "address": "3020 Wichita Ct",
         "city": "Fort Worth",
         "state": "TX",
@@ -184,7 +202,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90ALG003",
         "name": "Alliance Geotechnical Group - Longview",
+        "area": "ALLIANCE GEOTECHNICAL GROUP",
         "address": "317 W. Harrison Rd.",
         "city": "Longview",
         "state": "TX",
@@ -204,7 +224,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90ALG004",
         "name": "Alliance Geotechnical Group - Houston",
+        "area": "ALLIANCE GEOTECHNICAL GROUP",
         "address": "9101 Jameel Rd, Suite 130",
         "city": "Houston",
         "state": "TX",
@@ -224,7 +246,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90ATI002",
         "name": "Alpha Testing Inc.- FTW",
+        "area": "ALPHA TESTING, INC.",
         "address": "5058 Brush Creek Road",
         "city": "Fort Worth",
         "state": "TX",
@@ -244,7 +268,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90ATK001",
         "name": "Atkins - Houston",
+        "area": "ATKINS",
         "address": "920 Memorial City Way Suite 400",
         "city": "Houston",
         "state": "TX",
@@ -264,7 +290,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90ATLS01",
         "name": "Atlas - San Antonio",
+        "area": "ATLAS TECHNICAL CONSULTANTS",
         "address": "1211 Arion Parkway,Suite 100",
         "city": "San Antonio",
         "state": "TX",
@@ -284,7 +312,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90ATLS02",
         "name": "Atlas - Lubbock",
+        "area": "ATLAS TECHNICAL CONSULTANTS",
         "address": "12804 County Road 2500",
         "city": "Lubbock",
         "state": "TX",
@@ -304,7 +334,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90ATLS03",
         "name": "Atlas Laboratory - Beaumont",
+        "area": "ATLAS TECHNICAL CONSULTANTS",
         "address": "1150 N 13th St",
         "city": "Beaumont",
         "state": "TX",
@@ -324,7 +356,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90ATLS04",
         "name": "Atlas Laboratory - El Paso",
+        "area": "ATLAS TECHNICAL CONSULTANTS",
         "address": "5950 Luckett Court Bldg B",
         "city": "El Paso",
         "state": "TX",
@@ -344,7 +378,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Atlas Technical Consultants and Laboratory - FTW",
+        "lab_id": "90ATLS05",
+        "name": "Atlas Technical Consultants and?Laboratory -?FTW",
+        "area": "ATLAS TECHNICAL CONSULTANTS",
         "address": "2450 Austin Rd.",
         "city": "Richland Hills TX",
         "state": "TX",
@@ -364,7 +400,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90ATLS06",
         "name": "Atlas Technical Consultants - Houston",
+        "area": "ATLAS TECHNICAL CONSULTANTS",
         "address": "2501 Central Parkway, Suite A4",
         "city": "Houston",
         "state": "TX",
@@ -384,7 +422,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90ATLS07",
         "name": "Atlas Laboratory - Midland",
+        "area": "ATLAS TECHNICAL CONSULTANTS",
         "address": "6413 N State Hwy 349, Suite L",
         "city": "Midland",
         "state": "TX",
@@ -404,7 +444,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90ATLS08",
         "name": "Atlas - Dripping Springs (Previously Pave-Tex)",
+        "area": "ATLAS TECHNICAL CONSULTANTS",
         "address": "3989 Hwy 290 E",
         "city": "Dripping Springs",
         "state": "TX",
@@ -424,7 +466,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90ATLS09",
         "name": "Atlas Laboratory - Corpus Christi",
+        "area": "ATLAS TECHNICAL CONSULTANTS",
         "address": "1959 Saratoga Blvd, Building #12",
         "city": "Corpus Christi",
         "state": "TX",
@@ -444,7 +488,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90ATLS10",
         "name": "Atlas - Oakhill Project",
+        "area": "ATLAS TECHNICAL CONSULTANTS",
         "address": "7748 W. Highway 290",
         "city": "Austin",
         "state": "TX",
@@ -464,7 +510,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90AVI001",
         "name": "Aviles Engineering Corp - Houston",
+        "area": "AVILES ENGINEERING CORP.",
         "address": "5790 Windfern Rd.",
         "city": "Houston",
         "state": "TX",
@@ -484,7 +532,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "B2Z-Engineering - Mission ",
+        "lab_id": "90B2Z001",
+        "name": "B2Z-Engineering?- Mission?",
+        "area": "B2Z ENGINEERING",
         "address": "900 S. Stewart St., Ste. 2",
         "city": "Mission",
         "state": "TX",
@@ -504,7 +554,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90B2Z002",
         "name": "B2Z Engineering - Houston",
+        "area": "B2Z ENGINEERING",
         "address": "1304 Langham Creek Dr., Ste. 130",
         "city": "Houston",
         "state": "TX",
@@ -524,7 +576,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90B2Z003",
         "name": "B2Z Engineering - Austin",
+        "area": "B2Z ENGINEERING",
         "address": "4707 Commercial Park Dr.",
         "city": "Austin",
         "state": "TX",
@@ -544,7 +598,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90BEP001",
         "name": "Browne Engineering Partners - Dallas",
+        "area": "BROWNE ENGINEERING PARTNERS",
         "address": "5310 Harvest Hill Rd., Suite 188",
         "city": "Dallas",
         "state": "TX",
@@ -564,7 +620,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90BET001",
         "name": "Beyond Engineering - Round Rock",
+        "area": "BEYOND ENGINEERING AND TESTING, LLC",
         "address": "3801 Doris Lane, Ste B",
         "city": "Round Rock",
         "state": "TX",
@@ -584,7 +642,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90BET002",
         "name": "Beyond Engineering - Midland",
+        "area": "BEYOND ENGINEERING AND TESTING, LLC",
         "address": "3011 South County Road 1260, Suite B",
         "city": "Midland",
         "state": "TX",
@@ -604,7 +664,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90BET003",
         "name": "Beyond Engineering - Carrolton",
+        "area": "BEYOND ENGINEERING AND TESTING, LLC",
         "address": "2009 McKenzie Drive,Suite 130",
         "city": "Carrolton",
         "state": "TX",
@@ -624,7 +686,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90BET005",
         "name": "Beyond Engineering - Columbus",
+        "area": "BEYOND ENGINEERING AND TESTING, LLC",
         "address": "4336 S. IH10 Road",
         "city": "Columbus",
         "state": "TX",
@@ -644,7 +708,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90BET004",
         "name": "Beyond Engineering - DeKalb",
+        "area": "BEYOND ENGINEERING AND TESTING, LLC",
         "address": "10324 US 82",
         "city": "DeKalb",
         "state": "TX",
@@ -664,7 +730,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90BGE002",
         "name": "BGE, Inc. - Houston",
+        "area": "BROWN & GAY ENGINEERING",
         "address": "10777 Westheimer Rd., Suite 400",
         "city": "Houston",
         "state": "TX",
@@ -684,7 +752,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90BRG001",
         "name": "Bridgefarmer and Associates, Inc. - Dallas",
+        "area": "BRIDGEFARMER",
         "address": "2350 Valley View Lane",
         "city": "Farmers Branch",
         "state": "TX",
@@ -704,7 +774,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90BRI001",
         "name": "Braun Intertec - Amarillo",
+        "area": "BRAUN INTERTEC",
         "address": "215 S. Fannin St.",
         "city": "Amarillo",
         "state": "TX",
@@ -724,7 +796,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90CDM002",
         "name": "CDM Smith - Houston",
+        "area": "CDM SMITH",
         "address": "11490 Westhimer Rd., Suite 700",
         "city": "Houston",
         "state": "TX",
@@ -744,7 +818,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90CONSO01",
         "name": "CONSOR Engineers- Houston",
+        "area": "CONSOR ENGINEERS, LLC",
         "address": "15310 Park Row",
         "city": "Houston",
         "state": "TX",
@@ -764,7 +840,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90CPYI02",
         "name": "CP&Y - San Antonio",
+        "area": "CP&YI",
         "address": "12500 San Pedro Avenue, Suite 450",
         "city": "San Antonio",
         "state": "TX",
@@ -784,7 +862,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90CQC001",
         "name": "CQC Testing & Engineering, L.L.C.- El Paso",
+        "area": "CQC TESTING & LABORATORIES, L.L.C.",
         "address": "4606 Titanic Ave.",
         "city": "El Paso",
         "state": "TX",
@@ -804,7 +884,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90DSE001",
         "name": "Geotex Eng. Formally-D&S Engineering Labs, Fort Worth",
+        "area": "D&S ENGINEERING",
         "address": "14805 Trinity Blvd.",
         "city": "Fort Worth",
         "state": "TX",
@@ -824,7 +906,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90DYE001",
         "name": "Dyess Peterson - Amarillo",
+        "area": "DYESS-PETERSON",
         "address": "1700 SE 22nd Ave",
         "city": "Amarillo",
         "state": "TX",
@@ -844,7 +928,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90ECM001",
         "name": "ECM International Inc.",
+        "area": "ECM",
         "address": "404 Executive Center Blvd.",
         "city": "El Paso",
         "state": "TX",
@@ -864,7 +950,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90EST001",
         "name": "EST Inc. Laboratory - Melissa",
+        "area": "EST, INC.",
         "address": "3522 Sam Rayburn Highway",
         "city": "Melissa",
         "state": "TX",
@@ -884,7 +972,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90EST002",
         "name": "EST, Inc. Laboratory - Huntington Mobile Lab",
+        "area": "EST, INC.",
         "address": "26386 S. US 69",
         "city": "Zavala",
         "state": "TX",
@@ -904,7 +994,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90EST003",
         "name": "EST Inc. Laboratory - Paris",
+        "area": "EST, INC.",
         "address": "1485 North Main Street",
         "city": "Paris",
         "state": "TX",
@@ -924,7 +1016,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90EST004",
         "name": "EST, Inc. Laboratory - Dallas",
+        "area": "EST, INC.",
         "address": "11929 Harry Hines Blvd",
         "city": "Dallas",
         "state": "TX",
@@ -944,7 +1038,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90EST005",
         "name": "EST Inc. Laboratory - Arlington",
+        "area": "EST, INC.",
         "address": "7931 Valcasi Drive, Suite 100",
         "city": "Arlington",
         "state": "TX",
@@ -964,7 +1060,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90ETT003",
         "name": "ETTL, ARLINGTON, TX",
+        "area": "ETTL",
         "address": "3107 Avenue E.",
         "city": "Arlington",
         "state": "TX",
@@ -984,7 +1082,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90ETT004",
         "name": "ETTL, Texarkana",
+        "area": "ETTL",
         "address": "",
         "city": "Texarkana",
         "state": "AK",
@@ -1004,7 +1104,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90ETT005",
         "name": "ETTL Engineers - Austin",
+        "area": "ETTL",
         "address": "8403 Cross Park Dr #3d",
         "city": "Austin",
         "state": "TX",
@@ -1024,14 +1126,16 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90ETTL001",
         "name": "ETTL, Tyler TX",
+        "area": "TYER",
         "address": "1717 E. Erwin St.",
         "city": "Tyler",
         "state": "TX",
         "zip": 75702,
         "contact": "Hermanna Walka",
         "email": "hwalka@ettlinc.com",
-        "expiration": "2026-11-01T06:00:00.000Z"
+        "expiration": "2026-11-01T07:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1044,7 +1148,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90FAN001",
         "name": "FREESE AND NICHOLS - FTW",
+        "area": "FREESE AND NICHOLS",
         "address": "801 Cherry St., Suite 2800",
         "city": "Fort Worth",
         "state": "TX",
@@ -1064,7 +1170,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90FAN002",
         "name": "Freese & Nichols - San Antonio",
+        "area": "FREESE AND NICHOLS",
         "address": "9601 McAllister Fwy #1008",
         "city": "San Antonio",
         "state": "TX",
@@ -1084,7 +1192,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90FS2001",
         "name": "Fugro USA Land, Inc. - Austin",
+        "area": "FUGRO",
         "address": "8613 Cross Park Dr",
         "city": "Austin",
         "state": "TX",
@@ -1104,7 +1214,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90GAR001",
         "name": "Garver USA - Frisco",
+        "area": "GARVER USA",
         "address": "3000 Internet Blvd Suite 400",
         "city": "Frisco",
         "state": "TX",
@@ -1124,7 +1236,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90GEO001",
         "name": "GEOTEST ENGINEERING, INC.",
+        "area": "GEOTEST ENGINEERING, INC.",
         "address": "5600 Bintliff Dr.",
         "city": "Houston",
         "state": "TX",
@@ -1144,7 +1258,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90HLF001",
         "name": "HALFF ASSOCIATES, INC.",
+        "area": "HALFF ASSOCIATES, INC.",
         "address": "US 175 S. of Frankston",
         "city": "Frankston",
         "state": "TX",
@@ -1164,7 +1280,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90HLF002",
         "name": "HALFF ASSOCIATES, INC.",
+        "area": "HALFF ASSOCIATES, INC.",
         "address": "16381 FM 16",
         "city": "Lindale",
         "state": "TX",
@@ -1184,7 +1302,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90HLF004",
         "name": "HALFF ASSOCIATES, INC.",
+        "area": "HALFF ASSOCIATES, INC.",
         "address": "IH 20 Sabine 4836 FM 2087",
         "city": "Longview",
         "state": "TX",
@@ -1204,7 +1324,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90HNTB01",
         "name": "HNTB - Plano",
+        "area": "HNTB",
         "address": "5700 Granite Pkwy. #550",
         "city": "Plano",
         "state": "TX",
@@ -1224,7 +1346,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90HNTB02",
         "name": "HNTB - San Antonio",
+        "area": "HNTB",
         "address": "9061 McAllister Fwy #1001",
         "city": "San Antonio",
         "state": "TX",
@@ -1244,7 +1368,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90HRD000",
         "name": "HDR,INC.",
+        "area": "HDR,INC.",
         "address": "710 Hesters Crossing",
         "city": "Round Rock",
         "state": "TX",
@@ -1264,7 +1390,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90HVJ001",
         "name": "HVJ Laboratory- Houston",
+        "area": "HVJ ASSOCIATES",
         "address": "6120 S Dairy Ashford Rd",
         "city": "Houston",
         "state": "TX",
@@ -1284,7 +1412,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90HVJ003",
         "name": "HVJ South Central Texas - M&J, Inc. - Austin",
+        "area": "HVJ ASSOCIATES",
         "address": "4201 Freidrich Ln #110",
         "city": "Austin",
         "state": "TX",
@@ -1304,7 +1434,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90HVJ010",
         "name": "HVJ South Central Texas - San Antonio",
+        "area": "HVJ ASSOCIATES",
         "address": "206 W. Rhapsody Drive",
         "city": "San Antonio",
         "state": "TX",
@@ -1324,7 +1456,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90HVJ005",
         "name": "HVJ Associates - El Paso",
+        "area": "HVJ ASSOCIATES",
         "address": "1700 East Yandell Drive",
         "city": "El Paso",
         "state": "TX",
@@ -1344,7 +1478,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90HVJ006",
         "name": "HVJ North Texas-Chelliah Consultants Inc. - Dallas",
+        "area": "HVJ ASSOCIATES",
         "address": "8701 John Carpenter Freeway, Suite 250",
         "city": "Dallas",
         "state": "TX",
@@ -1364,7 +1500,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90HVJ007",
         "name": "HVJ South Central Texas - M&J, Inc.- Pharr",
+        "area": "HVJ ASSOCIATES",
         "address": "203 W. Interstate 2",
         "city": "Pharr",
         "state": "TX",
@@ -1384,7 +1522,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90HVJ011",
         "name": "HVJ Associates - El Paso",
+        "area": "HVJ ASSOCIATES",
         "address": "9992 Cross St.",
         "city": "El Paso",
         "state": "TX",
@@ -1404,7 +1544,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90IEA001",
         "name": "IEA - Wichita Falls",
+        "area": "IEA",
         "address": "101 Summit Avenue, Suite 803",
         "city": "Fort Worth",
         "state": "TX",
@@ -1424,7 +1566,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90INT001",
         "name": "Intertek-PSI - Dallas",
+        "area": "INTERTEK/PSI",
         "address": "12801 Stemmons Freeway, Suite 821",
         "city": "Farmers Branch",
         "state": "TX",
@@ -1444,7 +1588,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90INT002",
         "name": "Intertek-PSI - San Antonio",
+        "area": "INTERTEK/PSI",
         "address": "3 Burwood Lane",
         "city": "San Antonio",
         "state": "TX",
@@ -1464,7 +1610,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90INT003",
         "name": "Intertek-PSI - Odessa",
+        "area": "INTERTEK/PSI",
         "address": "2700 West 42nd Street",
         "city": "Odessa",
         "state": "TX",
@@ -1484,7 +1632,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90INT004",
         "name": "Intertek-PSI - El Paso",
+        "area": "INTERTEK/PSI",
         "address": "5044 Doniphan Drive, Bld D",
         "city": "El Paso",
         "state": "TX",
@@ -1504,7 +1654,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90INT005",
         "name": "INTERTEK/PSI-Garland",
+        "area": "INTERTEK/PSI",
         "address": "1137 S. Jupiter",
         "city": "Garland",
         "state": "TX",
@@ -1524,7 +1676,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90JAC002",
         "name": "Jacobs Engineering - Beaumont",
+        "area": "JACOBS ENGINEERING",
         "address": "777 Main Street",
         "city": "Fort Worth",
         "state": "TX",
@@ -1544,7 +1698,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90JHE001",
         "name": "J. Hartmangruber Engineering LLC - Wichita Falls",
+        "area": "J.HARTMANGRUBER ENGINEERING",
         "address": "3709 Kessler Blvd",
         "city": "Witchita Falls",
         "state": "TX",
@@ -1564,7 +1720,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "LJA Engineering - Arlington",
+        "lab_id": "90LJA001",
+        "name": "LJA Engineering?- Arlington",
+        "area": "LJA ENGINEERING",
         "address": "1907 Ascension Bl+D74:D120+D74:D120vd, Suite 500",
         "city": "Arlington",
         "state": "TX",
@@ -1584,7 +1742,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90LOC001",
         "name": "HW Lochner - San Antonio",
+        "area": "LOCHNER",
         "address": "11815 W. Coker Loop",
         "city": "San Antonio",
         "state": "TX",
@@ -1604,7 +1764,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90LOC003",
         "name": "HW Lochner - Dallas - FO",
+        "area": "LOCHNER",
         "address": "12750 Merit Drive,Suite 570, Bld. 7",
         "city": "Dallas",
         "state": "TX",
@@ -1624,7 +1786,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90LPC001",
         "name": "Lonestar Program Controls Group, LLC-New Braunfels",
+        "area": "LONESTAR PROGRAM CONTROLS GROUP, LLC",
         "address": "803 Haven Point Loop",
         "city": "New Braunfels",
         "state": "TX",
@@ -1644,7 +1808,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90LSE003",
         "name": "Lambstar - Frisco (Field Only)",
+        "area": "LAMB-STAR ENGINEERING",
         "address": "3801 Parkwood Boulevard, Suite 550",
         "city": "Frisco",
         "state": "TX",
@@ -1664,7 +1830,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90MEG002",
         "name": "Millennium Engineers Group - Odessa",
+        "area": "MILLENNIUM ENGINEERS GROUP",
         "address": "2513 N. Jackson Ave",
         "city": "Odessa",
         "state": "TX",
@@ -1684,7 +1852,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90MEG003",
         "name": "Millennium Engineers Group - Houston",
+        "area": "MILLENNIUM ENGINEERS GROUP",
         "address": "11665 Fuqua St., Suite F608",
         "city": "Houston",
         "state": "TX",
@@ -1704,7 +1874,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90MEG004",
         "name": "Millennium Engineers Group - Pharr",
+        "area": "MILLENNIUM ENGINEERS GROUP",
         "address": "5804 N. Gumwood Ave.",
         "city": "Pharr",
         "state": "TX",
@@ -1724,7 +1896,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90MEG005",
         "name": "Millennium Engineers Group - San Benito",
+        "area": "MILLENNIUM ENGINEERS GROUP",
         "address": "30745 E Expressway 83",
         "city": "San Benito",
         "state": "TX",
@@ -1744,7 +1918,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90R2M001",
         "name": "R2M",
+        "area": "R2M",
         "address": "5012 50th St., Suite 204",
         "city": "Lubbock",
         "state": "TX",
@@ -1764,7 +1940,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90REL001",
         "name": "Rodriguez Engineering Laboratories LLC - Austin",
+        "area": "RODRIGUEZ ENGINEERING LABORATORIES, INC.",
         "address": "13809 Turbine Dr",
         "city": "Austin",
         "state": "TX",
@@ -1784,7 +1962,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90REL002",
         "name": "Rodriguez Engineering Laboratories LLC - Pharr",
+        "area": "RODRIGUEZ ENGINEERING LABORATORIES, INC.",
         "address": "203 West Interstate 2",
         "city": "Pharr",
         "state": "TX",
@@ -1804,7 +1984,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90REL003",
         "name": "Rodriguez Engineering Laboratories LLC - Arlington",
+        "area": "RODRIGUEZ ENGINEERING LABORATORIES, INC.",
         "address": "610 Grand Avenue",
         "city": "Arlington",
         "state": "TX",
@@ -1824,7 +2006,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90REL004",
         "name": "Rodriguez Engineering Laboratories-FTW NTE Segment",
+        "area": "RODRIGUEZ ENGINEERING LABORATORIES, INC.",
         "address": "1500 Northpark Drive, Suite 110",
         "city": "Fort Worth",
         "state": "TX",
@@ -1844,7 +2028,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90REL005",
         "name": "Rodriguez Engineering Lab - San Antonio",
+        "area": "RODRIGUEZ ENGINEERING LABORATORIES, INC.",
         "address": "12728 O'Connor Rd.",
         "city": "San Antonio",
         "state": "TX",
@@ -1864,7 +2050,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90RKC001",
         "name": "Raba-Kistner Consultants-Austin",
+        "area": "RABA-KISTNER CONSULTANTS",
         "address": "8100 Cameron Rd, Ste B-150",
         "city": "Austin",
         "state": "TX",
@@ -1884,7 +2072,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90RKC004",
         "name": "Raba Kistner Consultants - Houston",
+        "area": "RABA-KISTNER CONSULTANTS",
         "address": "3602 Westchase Dr.",
         "city": "Houston",
         "state": "TX",
@@ -1904,7 +2094,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90RKC005",
         "name": "Raba-Kistner Consultants-Farmers Branch",
+        "area": "RABA-KISTNER CONSULTANTS",
         "address": "4407 N. Beltwood Pkwy #102",
         "city": "Farmers Branch",
         "state": "TX",
@@ -1924,7 +2116,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90RKC006",
         "name": "Raba-Kistner Consultants-McAllen",
+        "area": "RABA-KISTNER CONSULTANTS",
         "address": "800 East Hackberry",
         "city": "McAllen",
         "state": "TX",
@@ -1944,7 +2138,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90RKC007",
         "name": "Raba-Kistner Consultants-San Antonio",
+        "area": "RABA-KISTNER CONSULTANTS",
         "address": "12821 W. Golden Lane",
         "city": "San Antonio",
         "state": "TX",
@@ -1964,7 +2160,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90RKC008",
         "name": "Raba-Kistner Consultants-Dallas",
+        "area": "RABA-KISTNER CONSULTANTS",
         "address": "3603 S R.L. Thornton Freeway",
         "city": "Dallas",
         "state": "TX",
@@ -1984,7 +2182,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90RKC010",
         "name": "Raba-Kistner Consultants-Oakhill",
+        "area": "RABA-KISTNER CONSULTANTS",
         "address": "7748 US 290",
         "city": "Austin",
         "state": "TX",
@@ -2004,7 +2204,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90RKC011",
         "name": "Raba Kistner - Arlington SE Connector",
+        "area": "RABA-KISTNER CONSULTANTS",
         "address": "4400 Park Springs Blvd.",
         "city": "Arlington",
         "state": "TX",
@@ -2024,7 +2226,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90RKC012",
         "name": "Raba Kistner-Beaumont",
+        "area": "RABA-KISTNER CONSULTANTS",
         "address": "7820A Stone Oak Drive",
         "city": "Beaumont",
         "state": "TX",
@@ -2044,7 +2248,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90RNE002",
         "name": "Rone Engineering Services, Ltd. - FTW",
+        "area": "RONE ENGINEERING",
         "address": "3201 NE Loop 820, Suite 180,",
         "city": "Fort Worth",
         "state": "TX",
@@ -2064,7 +2270,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "RS&H Laboratory - San Angelo (FO)",
+        "lab_id": "90RSH001",
+        "name": "RS&H Laboratory - San Angelo?(FO)",
+        "area": "RS&H Inc.",
         "address": "211 S Irving, Suite 211",
         "city": "San Angelo",
         "state": "TX",
@@ -2084,7 +2292,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90RSH002",
         "name": "RS&H, Inc. - Longview",
+        "area": "RS&H Inc.",
         "address": "711 W. Harrison Rd.",
         "city": "Longview",
         "state": "TX",
@@ -2104,7 +2314,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90RSH003",
         "name": "RS&H, Inc.- Buda",
+        "area": "RS&H Inc.",
         "address": "911 Canyon Wren, Ste C",
         "city": "Buda",
         "state": "TX",
@@ -2124,7 +2336,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90SAMCS1",
         "name": "SAM-CS- San Antonio (Field Testing Only)",
+        "area": "SAM-CS",
         "address": "1019 Central Parkway North, Suite 104",
         "city": "San Antonio",
         "state": "TX",
@@ -2144,7 +2358,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90SAMCS2",
         "name": "SAM-CS - Houston",
+        "area": "SAM-CS",
         "address": "11111 Katy Fwy, Suite 200",
         "city": "Houston",
         "state": "TX",
@@ -2164,7 +2380,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90SSA001",
         "name": "SANCHEZ-SALAZAR & ASSOCIATES - San Antonio",
+        "area": "SANCHEZ-SALAZAR & ASSOCIATES, LLC",
         "address": "4630 N Loop 1604 W. Suite 115",
         "city": "San Antonio",
         "state": "TX",
@@ -2184,7 +2402,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90TAM001",
         "name": "Tam Consulting Services, LLC - FTW",
+        "area": "TAM CONSULTING SERVICES LLC",
         "address": "7707 Sand St.",
         "city": "Fort Worth",
         "state": "TX",
@@ -2204,7 +2424,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90TAM002",
         "name": "Tam Consulting Services, LLC - SE Connector",
+        "area": "TAM CONSULTING SERVICES LLC",
         "address": "4400 Park Springs Blvd.",
         "city": "Arlington",
         "state": "TX",
@@ -2224,7 +2446,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90TAM003",
         "name": "Tam Consulting Services -- San Antonio",
+        "area": "TAM CONSULTING SERVICES LLC",
         "address": "12706 O'Connor Rd.",
         "city": "San Antonio",
         "state": "TX",
@@ -2244,7 +2468,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90TEA001",
         "name": "TEAM Consultants Inc. - Dallas",
+        "area": "TEAM CONSULTANTS",
         "address": "4087 Shilling Way",
         "city": "Dallas",
         "state": "TX",
@@ -2264,7 +2490,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90TEX001",
         "name": "Texoma Engineering - Wichita Falls - FO",
+        "area": "TEXOMA ENGINEERING SERVICE",
         "address": "2222 Sheppard Access Dr.",
         "city": "Wichita Falls",
         "state": "TX",
@@ -2284,7 +2512,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90TRC001",
         "name": "Terracon Consultants Inc. - Dallas",
+        "area": "TERRACON",
         "address": "8901 John W. Carpenter Fwy Ste 100",
         "city": "Dallas",
         "state": "TX",
@@ -2304,7 +2534,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90TRC002",
         "name": "Terracon Consultants Inc. - San Antonio",
+        "area": "TERRACON",
         "address": "6000 Northwest Pkwy Ste 100",
         "city": "San Antonio",
         "state": "TX",
@@ -2324,7 +2556,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90TRC003",
         "name": "Terracon Consultants, Inc. - El Paso",
+        "area": "TERRACON",
         "address": "6460 Hiller St",
         "city": "El Paso",
         "state": "TX",
@@ -2344,7 +2578,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90TRC004",
         "name": "Terracon Consultants Inc. - Pharr",
+        "area": "TERRACON",
         "address": "1506 Mid Cities Drive",
         "city": "Pharr",
         "state": "TX",
@@ -2364,7 +2600,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90TRC005",
         "name": "Terracon - Round Rock",
+        "area": "TERRACON",
         "address": "800 Paloma Drive Ste 150",
         "city": "Round Rock",
         "state": "TX",
@@ -2384,7 +2622,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90TRC010",
         "name": "Terracon Consultants, Inc. - College Station",
+        "area": "TERRACON",
         "address": "6198 Imperial Loop",
         "city": "College Station",
         "state": "TX",
@@ -2404,7 +2644,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90THOM001",
         "name": "Thompson Engineering",
+        "area": "THOMPSON ENGINEERING",
         "address": "10665 Richmond Avenue, Building Five, Suite 192",
         "city": "Houston",
         "state": "TX",
@@ -2424,7 +2666,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90TSI004",
         "name": "TSIT Engineering & Consulting Laboratory - Euless",
+        "area": "TSIT ENGINEERING & CONSULTING",
         "address": "11301 Mosier Valley Rd.",
         "city": "Euless",
         "state": "TX",
@@ -2444,7 +2688,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90TSI005",
         "name": "TSIT Engineering & Consulting Laboratory - Leander",
+        "area": "TSIT ENGINEERING & CONSULTING",
         "address": "306 Hazelwood street",
         "city": "Leander",
         "state": "TX",
@@ -2464,7 +2710,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90VOL002",
         "name": "Volkert - Houston (Field Testing Only)",
+        "area": "VOLKERT ENGINEERING",
         "address": "5775 N. Sam Houston Pkwy W., Suite 140",
         "city": "Houston",
         "state": "TX",
@@ -2484,7 +2732,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90VOL003",
         "name": "Volkert - Rockwall (Field Testing Only)",
+        "area": "VOLKERT ENGINEERING",
         "address": "2850 Shoreline Trail, Suite 303",
         "city": "Rockwall",
         "state": "TX",
@@ -2504,7 +2754,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90VRX002",
         "name": "VRX Global - San Antonio",
+        "area": "VRX GLOBAL",
         "address": "227 N. Loop 1604 E, Suite #148",
         "city": "San Antonio",
         "state": "TX",
@@ -2524,7 +2776,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90VRX003",
         "name": "VRX Global - Houston (Field Testing Only)",
+        "area": "VRX GLOBAL",
         "address": "24624 IH 45 N, Suite 200",
         "city": "Spring",
         "state": "TX",
@@ -2544,7 +2798,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90VRX004",
         "name": "VRX Global - Plano (Field Testing Only)",
+        "area": "VRX GLOBAL",
         "address": "2500 N. Dallas Pkwy, Suite 450",
         "city": "Plano",
         "state": "TX",
@@ -2564,7 +2820,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90WOOD001",
         "name": "Wood - Dallas",
+        "area": "WSP (formerly WOOD GROUP)",
         "address": "4801 Spring Valley Rd. Suite 125",
         "city": "Dallas",
         "state": "TX",
@@ -2584,7 +2842,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90WOOL01",
         "name": "Woolpert- Houston (FO)",
+        "area": "WOOLPERT",
         "address": "11750 Katy Fwy, #1260",
         "city": "Houston",
         "state": "TX",
@@ -2604,7 +2864,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90WSB006",
         "name": "WBS - Texarkana (Wake Village)",
+        "area": "WSB",
         "address": "111 N. Kings Highway",
         "city": "Wake Village",
         "state": "TX",
@@ -2624,7 +2886,9 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90ETT001",
         "name": "ETTL Engineers & Consultants, Inc. (Tyler)",
+        "area": "Tyler",
         "address": "3527 Star Rd.",
         "city": "Whitehouse",
         "state": "TX",
