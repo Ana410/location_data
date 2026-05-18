@@ -2904,28 +2904,6 @@
           32.2761114
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "lab_id": "",
-        "name": "Sanjana Ram",
-        "area": "",
-        "address": "15013 Iveans Way",
-        "city": "Austin",
-        "state": "TX",
-        "zip": 78717,
-        "contact": "Sanjana Ram",
-        "email": "",
-        "expiration": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.75580599999999,
-          30.4930921
-        ]
-      }
     }
   ]
 }
