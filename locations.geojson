@@ -13,7 +13,7 @@
         "zip": 75063,
         "contact": "Liz Mang",
         "email": "emang@kleinfelder.com",
-        "expiration": "2024-11-30T08:00:00.000Z",
+        "issue_date": "2024-11-30T08:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -36,7 +36,7 @@
         "zip": 78751,
         "contact": "Cathey Galbreath",
         "email": "cathey.galbreath@aecom.com",
-        "expiration": "",
+        "issue_date": "",
         "expiring_soon": "normal"
       },
       "geometry": {
@@ -59,7 +59,7 @@
         "zip": 78232,
         "contact": "Alex Salcedo",
         "email": "asalcedo@ariasinc.com",
-        "expiration": "2026-12-08T08:00:00.000Z",
+        "issue_date": "2026-12-08T08:00:00.000Z",
         "expiring_soon": "normal"
       },
       "geometry": {
@@ -82,7 +82,7 @@
         "zip": 78729,
         "contact": "John S. Landwemeyer",
         "email": "jlandwermeyer@ariasinc.com",
-        "expiration": "2025-04-08T07:00:00.000Z",
+        "issue_date": "2025-04-08T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -90,29 +90,6 @@
         "coordinates": [
           -97.78856739999999,
           30.4549699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "lab_id": "90ABC123",
-        "name": "Test Lab, Some City, TX",
-        "area": "DUMMY LAB INC.",
-        "address": "123 Jedi St.",
-        "city": "Tattooine",
-        "state": "TX",
-        "zip": 71234,
-        "contact": "Amit Bhasin",
-        "email": "ab.utexas@gmail.com",
-        "expiration": "2025-02-01T08:00:00.000Z",
-        "expiring_soon": "expired"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.9018131,
-          31.9685988
         ]
       }
     },
@@ -128,7 +105,7 @@
         "zip": 76107,
         "contact": "Mike Looney",
         "email": "mike.looney@aguirre-fields.com",
-        "expiration": "2024-10-10T07:00:00.000Z",
+        "issue_date": "2024-10-10T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -151,7 +128,7 @@
         "zip": 78109,
         "contact": "Michael Steward",
         "email": "michael.steward@aguirre-fields.com",
-        "expiration": "2025-08-23T07:00:00.000Z",
+        "issue_date": "2025-08-23T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -174,7 +151,7 @@
         "zip": 75247,
         "contact": "John Carson",
         "email": "jcarson@aggengr.com",
-        "expiration": "2026-04-25T07:00:00.000Z",
+        "issue_date": "2026-04-25T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -197,7 +174,7 @@
         "zip": 76140,
         "contact": "Robert Nance",
         "email": "rnance@aggengr.com",
-        "expiration": "2026-08-31T07:00:00.000Z",
+        "issue_date": "2026-08-31T07:00:00.000Z",
         "expiring_soon": "expiring_soon"
       },
       "geometry": {
@@ -220,7 +197,7 @@
         "zip": 75604,
         "contact": "Terry Oswald",
         "email": "toswald@aggengr.com",
-        "expiration": "2025-07-21T07:00:00.000Z",
+        "issue_date": "2025-07-21T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -243,7 +220,7 @@
         "zip": 77040,
         "contact": "Stacy Walle",
         "email": "swalle@aggengr.com",
-        "expiration": "2026-01-18T08:00:00.000Z",
+        "issue_date": "2026-01-18T08:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -266,7 +243,7 @@
         "zip": 76119,
         "contact": "Robert Begole",
         "email": "rbegole@alphatesting.com",
-        "expiration": "2025-12-12T08:00:00.000Z",
+        "issue_date": "2025-12-12T08:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -289,7 +266,7 @@
         "zip": 77024,
         "contact": "John Watson",
         "email": "John.watson2@atkinsrealis.com",
-        "expiration": "2024-10-18T07:00:00.000Z",
+        "issue_date": "2024-10-18T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -312,7 +289,7 @@
         "zip": 78233,
         "contact": "Brett Haggerty",
         "email": "brett.haggerty@oneatlas.com",
-        "expiration": "2027-01-26T08:00:00.000Z",
+        "issue_date": "2027-01-26T08:00:00.000Z",
         "expiring_soon": "normal"
       },
       "geometry": {
@@ -335,7 +312,7 @@
         "zip": 79404,
         "contact": "Cole Hutson",
         "email": "cole.hutson@oneatlas.com",
-        "expiration": "2025-05-16T07:00:00.000Z",
+        "issue_date": "2025-05-16T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -358,7 +335,7 @@
         "zip": 77702,
         "contact": "Jeffrey Buxton",
         "email": "jeffrey.buxton@oneatlas.com",
-        "expiration": "2024-05-21T07:00:00.000Z",
+        "issue_date": "2024-05-21T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -381,7 +358,7 @@
         "zip": 79932,
         "contact": "Melodie Jimenez",
         "email": "melodie.jimenez@oneatlas.com",
-        "expiration": "2024-11-08T08:00:00.000Z",
+        "issue_date": "2024-11-08T08:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -404,7 +381,7 @@
         "zip": 76118,
         "contact": "Jaosn Bartholomew",
         "email": "jason.bartholomew@oneatlas.com",
-        "expiration": "2027-02-13T08:00:00.000Z",
+        "issue_date": "2027-02-13T08:00:00.000Z",
         "expiring_soon": "normal"
       },
       "geometry": {
@@ -427,7 +404,7 @@
         "zip": 77092,
         "contact": "Dennis Turner",
         "email": "dennis.turner@oneatlas.com",
-        "expiration": "2025-08-30T07:00:00.000Z",
+        "issue_date": "2025-08-30T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -450,7 +427,7 @@
         "zip": 79705,
         "contact": "Corey Ritchie",
         "email": "corey.ritchie@oneatlas.com",
-        "expiration": "2024-07-13T07:00:00.000Z",
+        "issue_date": "2024-07-13T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -473,7 +450,7 @@
         "zip": 78620,
         "contact": "Dale Rand",
         "email": "dale.rand@oneatlas.com",
-        "expiration": "2026-03-10T07:00:00.000Z",
+        "issue_date": "2026-03-10T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -496,7 +473,7 @@
         "zip": 78417,
         "contact": "Jacob Santellana",
         "email": "jacob.santellana@oneatlas.com",
-        "expiration": "2025-09-26T07:00:00.000Z",
+        "issue_date": "2025-09-26T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -519,7 +496,7 @@
         "zip": 78736,
         "contact": "Jimmy Baldwin",
         "email": "Jimmy.Baldwin@oneatlas.com",
-        "expiration": "2026-02-28T08:00:00.000Z",
+        "issue_date": "2026-02-28T08:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -542,7 +519,7 @@
         "zip": 77041,
         "contact": "Karl Dahm",
         "email": "kdahm@avilesengineering.com",
-        "expiration": "2025-09-08T07:00:00.000Z",
+        "issue_date": "2025-09-08T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -565,7 +542,7 @@
         "zip": 78572,
         "contact": "Aisha Gonzalez",
         "email": "aisha@b2zeng.com",
-        "expiration": "2026-05-05T07:00:00.000Z",
+        "issue_date": "2026-05-05T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -588,7 +565,7 @@
         "zip": 77084,
         "contact": "Hector Cantu",
         "email": "hector@b2zeng.com",
-        "expiration": "2025-07-28T07:00:00.000Z",
+        "issue_date": "2025-07-28T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -611,7 +588,7 @@
         "zip": 78724,
         "contact": "Ramon Campos Jr.",
         "email": "ramon@b2zeng.com",
-        "expiration": "2024-11-30T08:00:00.000Z",
+        "issue_date": "2024-11-30T08:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -634,7 +611,7 @@
         "zip": 75230,
         "contact": "Emilce Ferreira",
         "email": "emilce@browneep.com",
-        "expiration": "2025-07-21T07:00:00.000Z",
+        "issue_date": "2025-07-21T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -657,7 +634,7 @@
         "zip": 78664,
         "contact": "Frank Yuan",
         "email": "frankyuan@beyondet.com",
-        "expiration": "2024-05-21T07:00:00.000Z",
+        "issue_date": "2024-05-21T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -680,7 +657,7 @@
         "zip": 79706,
         "contact": "Edgar Zapata",
         "email": "edgarzapata@beyondet.com",
-        "expiration": "2025-06-09T07:00:00.000Z",
+        "issue_date": "2025-06-09T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -703,7 +680,7 @@
         "zip": 75006,
         "contact": "Con Nguyen",
         "email": "connguyen@beyondet.com",
-        "expiration": "2025-12-12T08:00:00.000Z",
+        "issue_date": "2025-12-12T08:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -726,7 +703,7 @@
         "zip": "",
         "contact": "Ezequiel Garcia",
         "email": "EzequielGarcia@BeyondET.com",
-        "expiration": "",
+        "issue_date": "",
         "expiring_soon": "normal"
       },
       "geometry": {
@@ -749,7 +726,7 @@
         "zip": 75559,
         "contact": "Siva Venigalla",
         "email": "SivaVenigalla@BeyondET.com",
-        "expiration": "",
+        "issue_date": "",
         "expiring_soon": "normal"
       },
       "geometry": {
@@ -772,7 +749,7 @@
         "zip": 77042,
         "contact": "Christopher Scullion",
         "email": "cscullion@bgeinc.com",
-        "expiration": "2028-02-09T08:00:00.000Z",
+        "issue_date": "2028-02-09T08:00:00.000Z",
         "expiring_soon": "normal"
       },
       "geometry": {
@@ -795,7 +772,7 @@
         "zip": 75234,
         "contact": "Brandon Bowie",
         "email": "brandon.bowie@bridgefarmer.com",
-        "expiration": "2025-07-21T07:00:00.000Z",
+        "issue_date": "2025-07-21T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -818,7 +795,7 @@
         "zip": 79160,
         "contact": "Estevan (Steve) Camargo",
         "email": "scamargo@braunintertec.com",
-        "expiration": "2026-05-17T07:00:00.000Z",
+        "issue_date": "2026-05-17T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -841,7 +818,7 @@
         "zip": 77077,
         "contact": "Fernando J de la Garza",
         "email": "delagarzafj@cdmsmith.com",
-        "expiration": "2024-06-03T07:00:00.000Z",
+        "issue_date": "2024-06-03T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -864,7 +841,7 @@
         "zip": 77084,
         "contact": "Mario Villareal",
         "email": "mvillareal@consoreng.com",
-        "expiration": "2024-08-23T07:00:00.000Z",
+        "issue_date": "2024-08-23T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -887,7 +864,7 @@
         "zip": 78216,
         "contact": "Mike Rogerio",
         "email": "mrogerio@cpyi.com",
-        "expiration": "2025-02-04T08:00:00.000Z",
+        "issue_date": "2025-02-04T08:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -910,7 +887,7 @@
         "zip": 79904,
         "contact": "Jaime Rojas",
         "email": "jrojas@cqceng.com",
-        "expiration": "2025-02-11T08:00:00.000Z",
+        "issue_date": "2025-02-11T08:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -933,7 +910,7 @@
         "zip": 76155,
         "contact": "Christy Hansel",
         "email": "chansel@geotex-engineering.com",
-        "expiration": "2025-07-31T07:00:00.000Z",
+        "issue_date": "2025-07-31T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -956,7 +933,7 @@
         "zip": 79103,
         "contact": "Colt Peterson",
         "email": "coltp@dyesspeterson.com",
-        "expiration": "2025-11-10T08:00:00.000Z",
+        "issue_date": "2025-11-10T08:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -979,7 +956,7 @@
         "zip": 79902,
         "contact": "Armando Velez",
         "email": "avelez@exmintl.com",
-        "expiration": "2024-12-03T08:00:00.000Z",
+        "issue_date": "2024-12-03T08:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -1002,7 +979,7 @@
         "zip": 75454,
         "contact": "Jeremy Bergstrom",
         "email": "jeremyb@estinc.com",
-        "expiration": "2025-04-30T07:00:00.000Z",
+        "issue_date": "2025-04-30T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -1025,7 +1002,7 @@
         "zip": 75980,
         "contact": "Josh Golleher",
         "email": "joshg@estinc.com",
-        "expiration": "2025-01-10T08:00:00.000Z",
+        "issue_date": "2025-01-10T08:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -1048,7 +1025,7 @@
         "zip": 75460,
         "contact": "Randy Floyd",
         "email": "randyf@estinc.com",
-        "expiration": "2024-10-11T07:00:00.000Z",
+        "issue_date": "2024-10-11T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -1071,7 +1048,7 @@
         "zip": 75234,
         "contact": "Jeremy Bergstrom",
         "email": "jeremyb@estinc.com",
-        "expiration": "2026-05-11T07:00:00.000Z",
+        "issue_date": "2026-05-11T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -1094,7 +1071,7 @@
         "zip": 76001,
         "contact": "Bryan Ogden",
         "email": "bryano@estinc.com",
-        "expiration": "2026-09-25T07:00:00.000Z",
+        "issue_date": "2026-09-25T07:00:00.000Z",
         "expiring_soon": "normal"
       },
       "geometry": {
@@ -1117,7 +1094,7 @@
         "zip": 76001,
         "contact": "Jerry Sturgill",
         "email": "jsturgill@ettlinc.com",
-        "expiration": "2027-02-28T08:00:00.000Z",
+        "issue_date": "2027-02-28T08:00:00.000Z",
         "expiring_soon": "normal"
       },
       "geometry": {
@@ -1140,7 +1117,7 @@
         "zip": "",
         "contact": "",
         "email": "",
-        "expiration": "",
+        "issue_date": "",
         "expiring_soon": "normal"
       },
       "geometry": {
@@ -1163,7 +1140,7 @@
         "zip": 78754,
         "contact": "Tiffany Johnson",
         "email": "tjohnson@ettlinc.com",
-        "expiration": "",
+        "issue_date": "",
         "expiring_soon": "normal"
       },
       "geometry": {
@@ -1186,7 +1163,7 @@
         "zip": 75702,
         "contact": "Hermanna Walka",
         "email": "hwalka@ettlinc.com",
-        "expiration": "2026-11-01T07:00:00.000Z",
+        "issue_date": "2026-11-01T07:00:00.000Z",
         "expiring_soon": "normal"
       },
       "geometry": {
@@ -1209,7 +1186,7 @@
         "zip": 76109,
         "contact": "Deanni Gonzalez",
         "email": "danny.gonzalez@freese.com",
-        "expiration": "2024-05-19T07:00:00.000Z",
+        "issue_date": "2024-05-19T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -1232,7 +1209,7 @@
         "zip": 78216,
         "contact": "Brent Millar",
         "email": "brent.millar@freese.com",
-        "expiration": "2025-08-23T07:00:00.000Z",
+        "issue_date": "2025-08-23T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -1255,7 +1232,7 @@
         "zip": 78754,
         "contact": "Jimmy Si",
         "email": "j.si@fugro.com",
-        "expiration": "2024-10-31T07:00:00.000Z",
+        "issue_date": "2024-10-31T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -1278,7 +1255,7 @@
         "zip": 75034,
         "contact": "Michael Steward Jr.",
         "email": "MRSteward@garverusa.com",
-        "expiration": "2026-06-08T07:00:00.000Z",
+        "issue_date": "2026-06-08T07:00:00.000Z",
         "expiring_soon": "expiring_soon"
       },
       "geometry": {
@@ -1301,7 +1278,7 @@
         "zip": 77036,
         "contact": "Madhu Munirathnam",
         "email": "madhu@geotesteng.com",
-        "expiration": "2025-08-25T07:00:00.000Z",
+        "issue_date": "2025-08-25T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -1324,7 +1301,7 @@
         "zip": 75701,
         "contact": "Tim Moody",
         "email": "tmoody@halff.com",
-        "expiration": "2025-01-31T08:00:00.000Z",
+        "issue_date": "2025-01-31T08:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -1347,7 +1324,7 @@
         "zip": 75771,
         "contact": "Tim Moody",
         "email": "tmoody@halff.com",
-        "expiration": "",
+        "issue_date": "",
         "expiring_soon": "normal"
       },
       "geometry": {
@@ -1370,7 +1347,7 @@
         "zip": 75603,
         "contact": "Tim Moody",
         "email": "tmoody@halff.com",
-        "expiration": "",
+        "issue_date": "",
         "expiring_soon": "normal"
       },
       "geometry": {
@@ -1393,7 +1370,7 @@
         "zip": 75024,
         "contact": "Joe With",
         "email": "jwith@hntb.com",
-        "expiration": "2024-06-28T07:00:00.000Z",
+        "issue_date": "2024-06-28T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -1416,7 +1393,7 @@
         "zip": 78217,
         "contact": "Catherine Hejl",
         "email": "chejl@hntb.com",
-        "expiration": "2025-03-28T07:00:00.000Z",
+        "issue_date": "2025-03-28T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -1439,7 +1416,7 @@
         "zip": 78681,
         "contact": "Clinton Best",
         "email": "clinton.best@hdrinc.com",
-        "expiration": "2025-10-18T07:00:00.000Z",
+        "issue_date": "2025-10-18T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -1462,7 +1439,7 @@
         "zip": 77072,
         "contact": "Mayur Patel",
         "email": "mpatel@hvj.com",
-        "expiration": "2026-02-01T08:00:00.000Z",
+        "issue_date": "2026-02-01T08:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -1485,7 +1462,7 @@
         "zip": 78744,
         "contact": "Gregory Larkin",
         "email": "GLarkin@hvj.com",
-        "expiration": "2025-05-10T07:00:00.000Z",
+        "issue_date": "2025-05-10T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -1508,7 +1485,7 @@
         "zip": 78216,
         "contact": "Syed Jafar",
         "email": "sjafar@hvj.com",
-        "expiration": "2027-01-18T08:00:00.000Z",
+        "issue_date": "2027-01-18T08:00:00.000Z",
         "expiring_soon": "normal"
       },
       "geometry": {
@@ -1531,7 +1508,7 @@
         "zip": 79902,
         "contact": "Andy Menchaca",
         "email": "amenchaca@hvj.com",
-        "expiration": "2024-10-14T07:00:00.000Z",
+        "issue_date": "2024-10-14T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -1554,7 +1531,7 @@
         "zip": 75247,
         "contact": "Devarajan Chelliah",
         "email": "dchelliah@hvj.com",
-        "expiration": "2024-06-30T07:00:00.000Z",
+        "issue_date": "2024-06-30T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -1577,7 +1554,7 @@
         "zip": 78577,
         "contact": "Shashank Valluru",
         "email": "shashank.valluru@intertek.com",
-        "expiration": "2026-10-27T07:00:00.000Z",
+        "issue_date": "2026-10-27T07:00:00.000Z",
         "expiring_soon": "normal"
       },
       "geometry": {
@@ -1600,7 +1577,7 @@
         "zip": 79924,
         "contact": "Andy Menchaca",
         "email": "amenchaca@hvj.com",
-        "expiration": "2024-10-14T07:00:00.000Z",
+        "issue_date": "2024-10-14T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -1623,7 +1600,7 @@
         "zip": 76102,
         "contact": "Joshua Moore",
         "email": "jmoore@ieaworld.com",
-        "expiration": "2024-06-03T07:00:00.000Z",
+        "issue_date": "2024-06-03T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -1646,7 +1623,7 @@
         "zip": 75234,
         "contact": "Brian Ross",
         "email": "brian.ross@intertek.com",
-        "expiration": "2026-07-12T07:00:00.000Z",
+        "issue_date": "2026-07-12T07:00:00.000Z",
         "expiring_soon": "expiring_soon"
       },
       "geometry": {
@@ -1669,7 +1646,7 @@
         "zip": 78216,
         "contact": "Karl Crenwelge",
         "email": "karlcrenwelge@intertek.com",
-        "expiration": "2025-06-17T07:00:00.000Z",
+        "issue_date": "2025-06-17T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -1692,7 +1669,7 @@
         "zip": 79765,
         "contact": "Jose Acosta",
         "email": "joseacosta@intertek.com",
-        "expiration": "2025-07-28T07:00:00.000Z",
+        "issue_date": "2025-07-28T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -1715,7 +1692,7 @@
         "zip": 79932,
         "contact": "Ruben Barrientos",
         "email": "ruben.barrientos@intertek.com",
-        "expiration": "2025-02-24T08:00:00.000Z",
+        "issue_date": "2025-02-24T08:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -1738,7 +1715,7 @@
         "zip": 75042,
         "contact": "Reddy Vuske",
         "email": "sreenath.vuske@intertek.com",
-        "expiration": "2026-07-18T07:00:00.000Z",
+        "issue_date": "2026-07-18T07:00:00.000Z",
         "expiring_soon": "expiring_soon"
       },
       "geometry": {
@@ -1761,7 +1738,7 @@
         "zip": 76102,
         "contact": "Chris Williams",
         "email": "chris.williams2@jacobs.com",
-        "expiration": "2025-10-12T07:00:00.000Z",
+        "issue_date": "2025-10-12T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -1784,7 +1761,7 @@
         "zip": 76309,
         "contact": "Josh Hartmangruber, P.E.",
         "email": "HartmangruberJ@yahoo.com",
-        "expiration": "2026-06-02T07:00:00.000Z",
+        "issue_date": "2026-06-02T07:00:00.000Z",
         "expiring_soon": "expiring_soon"
       },
       "geometry": {
@@ -1807,7 +1784,7 @@
         "zip": 76006,
         "contact": "Bryan Wilson",
         "email": "bawilson@lja.com",
-        "expiration": "2025-01-30T08:00:00.000Z",
+        "issue_date": "2025-01-30T08:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -1830,7 +1807,7 @@
         "zip": 78216,
         "contact": "Paul Kieke",
         "email": "gstringer@hwlochner.com",
-        "expiration": "2025-08-30T07:00:00.000Z",
+        "issue_date": "2025-08-30T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -1853,7 +1830,7 @@
         "zip": 75251,
         "contact": "Ricky Floyd",
         "email": "rfloyd@hwlochner.com",
-        "expiration": "2026-02-03T08:00:00.000Z",
+        "issue_date": "2026-02-03T08:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -1876,7 +1853,7 @@
         "zip": 78132,
         "contact": "Brian Davidson",
         "email": "brian.davidson@lpcgllc.com",
-        "expiration": "2023-05-23T07:00:00.000Z",
+        "issue_date": "2023-05-23T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -1899,7 +1876,7 @@
         "zip": 75034,
         "contact": "Jason Clarke Dennis Alsup",
         "email": "Jason.Clarke@lamb-star.com",
-        "expiration": "2026-03-31T07:00:00.000Z",
+        "issue_date": "2026-03-31T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -1922,7 +1899,7 @@
         "zip": 79764,
         "contact": "Juan Palma",
         "email": "jppalma@megengineers.com",
-        "expiration": "2025-08-29T07:00:00.000Z",
+        "issue_date": "2025-08-29T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -1945,7 +1922,7 @@
         "zip": 77034,
         "contact": "Humberto Palma",
         "email": "hpalma@megengineers.com",
-        "expiration": "2025-10-18T07:00:00.000Z",
+        "issue_date": "2025-10-18T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -1968,7 +1945,7 @@
         "zip": 78577,
         "contact": "Andres Palma",
         "email": "apalma@megengineers.com",
-        "expiration": "2025-10-27T07:00:00.000Z",
+        "issue_date": "2025-10-27T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -1991,7 +1968,7 @@
         "zip": 78586,
         "contact": "Cronos Oros",
         "email": "coros@megengineers.com",
-        "expiration": "",
+        "issue_date": "",
         "expiring_soon": "normal"
       },
       "geometry": {
@@ -2014,7 +1991,7 @@
         "zip": 79414,
         "contact": "Tonya Woodruff",
         "email": "twoodruff@r2meng.com",
-        "expiration": "2025-11-28T08:00:00.000Z",
+        "issue_date": "2025-11-28T08:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -2037,7 +2014,7 @@
         "zip": 78728,
         "contact": "Jose Melendez",
         "email": "jmelendez@relcme.com",
-        "expiration": "2026-07-06T07:00:00.000Z",
+        "issue_date": "2026-07-06T07:00:00.000Z",
         "expiring_soon": "expiring_soon"
       },
       "geometry": {
@@ -2060,7 +2037,7 @@
         "zip": 78577,
         "contact": "Oscar Rodriguez",
         "email": "orodriguez@relcme.com",
-        "expiration": "2026-03-30T07:00:00.000Z",
+        "issue_date": "2026-03-30T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -2083,7 +2060,7 @@
         "zip": 76010,
         "contact": "Ricardo Avila",
         "email": "ravila@relcme.com",
-        "expiration": "2025-04-30T07:00:00.000Z",
+        "issue_date": "2025-04-30T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -2106,7 +2083,7 @@
         "zip": 76102,
         "contact": "Josefa Garza",
         "email": "jgarza@relcme.com",
-        "expiration": "2025-12-05T08:00:00.000Z",
+        "issue_date": "2025-12-05T08:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -2129,7 +2106,7 @@
         "zip": 78217,
         "contact": "David Belser",
         "email": "David Belser <david.belser@rkci.com>",
-        "expiration": "2025-08-31T07:00:00.000Z",
+        "issue_date": "2025-08-31T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -2152,7 +2129,7 @@
         "zip": 78754,
         "contact": "Frank Zuniga",
         "email": "fzuniga@rkci.com",
-        "expiration": "2026-03-21T07:00:00.000Z",
+        "issue_date": "2026-03-21T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -2175,7 +2152,7 @@
         "zip": 77042,
         "contact": "Jacob Fuentes",
         "email": "jacob.fuentes@rkci.com",
-        "expiration": "2025-04-07T07:00:00.000Z",
+        "issue_date": "2025-04-07T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -2198,7 +2175,7 @@
         "zip": 75244,
         "contact": "David Johnson",
         "email": "david.johnson@rkci.com",
-        "expiration": "2026-08-16T07:00:00.000Z",
+        "issue_date": "2026-08-16T07:00:00.000Z",
         "expiring_soon": "expiring_soon"
       },
       "geometry": {
@@ -2221,7 +2198,7 @@
         "zip": 78501,
         "contact": "Katrin M. Leonard",
         "email": "kmiovski@rkci.com",
-        "expiration": "2026-11-14T08:00:00.000Z",
+        "issue_date": "2026-11-14T08:00:00.000Z",
         "expiring_soon": "normal"
       },
       "geometry": {
@@ -2244,7 +2221,7 @@
         "zip": 78249,
         "contact": "Jacob Fuentes",
         "email": "jacob.fuentes@rkci.com",
-        "expiration": "2027-03-01T08:00:00.000Z",
+        "issue_date": "2027-03-01T08:00:00.000Z",
         "expiring_soon": "normal"
       },
       "geometry": {
@@ -2267,7 +2244,7 @@
         "zip": 75224,
         "contact": "Reddy Vuske",
         "email": "reddy.vuske@rkci.com",
-        "expiration": "2024-07-31T07:00:00.000Z",
+        "issue_date": "2024-07-31T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -2290,7 +2267,7 @@
         "zip": 78736,
         "contact": "Dickson Graham",
         "email": "dgraham@rkci.com",
-        "expiration": "2024-10-31T07:00:00.000Z",
+        "issue_date": "2024-10-31T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -2313,7 +2290,7 @@
         "zip": 76017,
         "contact": "Brent Adams",
         "email": "brent.adams@rkci.com",
-        "expiration": "2026-03-23T07:00:00.000Z",
+        "issue_date": "2026-03-23T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -2336,7 +2313,7 @@
         "zip": 77705,
         "contact": "Faith Walters",
         "email": "fwalters@rkci.com",
-        "expiration": "2026-10-09T07:00:00.000Z",
+        "issue_date": "2026-10-09T07:00:00.000Z",
         "expiring_soon": "normal"
       },
       "geometry": {
@@ -2359,7 +2336,7 @@
         "zip": 76137,
         "contact": "Joshua McFarlain",
         "email": "jmcfarlain@roneengineers.com",
-        "expiration": "2026-02-14T08:00:00.000Z",
+        "issue_date": "2026-02-14T08:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -2382,7 +2359,7 @@
         "zip": 76903,
         "contact": "Tyler Tolley",
         "email": "tyler.tolley@rsandh.com",
-        "expiration": "2025-11-29T08:00:00.000Z",
+        "issue_date": "2025-11-29T08:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -2405,7 +2382,7 @@
         "zip": 75604,
         "contact": "Julie Hero",
         "email": "julie.hero@rsandh.com",
-        "expiration": "2025-08-24T07:00:00.000Z",
+        "issue_date": "2025-08-24T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -2428,7 +2405,7 @@
         "zip": 78610,
         "contact": "Cody Hans",
         "email": "cody.hans@rsandh.com",
-        "expiration": "2025-10-19T07:00:00.000Z",
+        "issue_date": "2025-10-19T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -2451,7 +2428,7 @@
         "zip": 78232,
         "contact": "Zeke Zieschang",
         "email": "zeke.zieschang@sam-cs.biz",
-        "expiration": "2025-06-07T07:00:00.000Z",
+        "issue_date": "2025-06-07T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -2474,7 +2451,7 @@
         "zip": 77079,
         "contact": "Paul Brodin",
         "email": "brodin@sam-cs.biz",
-        "expiration": "2025-04-15T07:00:00.000Z",
+        "issue_date": "2025-04-15T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -2497,7 +2474,7 @@
         "zip": 78249,
         "contact": "Fernando Salazar",
         "email": "fsalazar@ssa-pe.com",
-        "expiration": "2025-07-21T07:00:00.000Z",
+        "issue_date": "2025-07-21T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -2520,7 +2497,7 @@
         "zip": 76118,
         "contact": "Damian Bozek",
         "email": "damianbozek@tcsengineering.com",
-        "expiration": "2025-11-28T08:00:00.000Z",
+        "issue_date": "2025-11-28T08:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -2543,7 +2520,7 @@
         "zip": 76017,
         "contact": "Damian Bozek",
         "email": "DamianBozek@tcsengineering.com",
-        "expiration": "2026-03-23T07:00:00.000Z",
+        "issue_date": "2026-03-23T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -2566,7 +2543,7 @@
         "zip": 78249,
         "contact": "David Belser",
         "email": "David Belser <david.belser@rkci.com>",
-        "expiration": "2025-07-28T07:00:00.000Z",
+        "issue_date": "2025-07-28T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -2589,7 +2566,7 @@
         "zip": 75237,
         "contact": "Bruce Walton",
         "email": "bwalton@teamconsultants.net",
-        "expiration": "2024-05-31T07:00:00.000Z",
+        "issue_date": "2024-05-31T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -2612,7 +2589,7 @@
         "zip": 76306,
         "contact": "Todd Whisenhunt",
         "email": "ToddWTX@hotmail.com",
-        "expiration": "2026-05-01T07:00:00.000Z",
+        "issue_date": "2026-05-01T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -2635,7 +2612,7 @@
         "zip": 75047,
         "contact": "Nick Willick",
         "email": "nick.willick@terracon.com",
-        "expiration": "2026-02-28T08:00:00.000Z",
+        "issue_date": "2026-02-28T08:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -2658,7 +2635,7 @@
         "zip": 78249,
         "contact": "Raymond Rodriguez",
         "email": "raymond.rodriguez@terracon.com",
-        "expiration": "2027-01-29T08:00:00.000Z",
+        "issue_date": "2027-01-29T08:00:00.000Z",
         "expiring_soon": "normal"
       },
       "geometry": {
@@ -2681,7 +2658,7 @@
         "zip": 79925,
         "contact": "Rodolfo Rascon De Lira",
         "email": "Rodolfo.Rascon@terracon.com",
-        "expiration": "2026-02-15T08:00:00.000Z",
+        "issue_date": "2026-02-15T08:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -2704,7 +2681,7 @@
         "zip": 78577,
         "contact": "Jorge Perez",
         "email": "jorge.perez@terracon.com",
-        "expiration": "2026-07-24T07:00:00.000Z",
+        "issue_date": "2026-07-24T07:00:00.000Z",
         "expiring_soon": "expiring_soon"
       },
       "geometry": {
@@ -2727,7 +2704,7 @@
         "zip": 78665,
         "contact": "Chris Border",
         "email": "chris.border@terracon.com",
-        "expiration": "2026-11-15T08:00:00.000Z",
+        "issue_date": "2026-11-15T08:00:00.000Z",
         "expiring_soon": "normal"
       },
       "geometry": {
@@ -2750,7 +2727,7 @@
         "zip": 77845,
         "contact": "Yatish A. Jakatimath",
         "email": "yatish.jakatimath@terracon.com",
-        "expiration": "",
+        "issue_date": "",
         "expiring_soon": "normal"
       },
       "geometry": {
@@ -2773,7 +2750,7 @@
         "zip": 77042,
         "contact": "Travis Kilgore",
         "email": "tkilgore@thompsonengineering.com",
-        "expiration": "2025-05-30T07:00:00.000Z",
+        "issue_date": "2025-05-30T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -2796,7 +2773,7 @@
         "zip": 76040,
         "contact": "Terry Smith Jr. & Arthur Etherly",
         "email": "TSmithJr@tsitengineering",
-        "expiration": "2026-11-06T08:00:00.000Z",
+        "issue_date": "2026-11-06T08:00:00.000Z",
         "expiring_soon": "normal"
       },
       "geometry": {
@@ -2819,7 +2796,7 @@
         "zip": 78641,
         "contact": "Terry Smith Jr. & Arthur Etherly",
         "email": "TSmithJr@tsitengineering",
-        "expiration": "",
+        "issue_date": "",
         "expiring_soon": "normal"
       },
       "geometry": {
@@ -2842,7 +2819,7 @@
         "zip": 77086,
         "contact": "Thomas De La Portilla",
         "email": "thomas.delaportilla@volkert.com",
-        "expiration": "2024-05-22T07:00:00.000Z",
+        "issue_date": "2024-05-22T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -2865,7 +2842,7 @@
         "zip": 75032,
         "contact": "Thomas De La Portilla",
         "email": "thomas.delaportilla@volkert.com",
-        "expiration": "2026-03-27T07:00:00.000Z",
+        "issue_date": "2026-03-27T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -2888,7 +2865,7 @@
         "zip": 78232,
         "contact": "Hayden Moore",
         "email": "hayden.moore@vrxglobal.com",
-        "expiration": "2025-03-24T07:00:00.000Z",
+        "issue_date": "2025-03-24T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -2911,7 +2888,7 @@
         "zip": 77386,
         "contact": "Xose L. Perez",
         "email": "xose.perez@vrxglobal.com",
-        "expiration": "2024-06-07T07:00:00.000Z",
+        "issue_date": "2024-06-07T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -2934,7 +2911,7 @@
         "zip": 75093,
         "contact": "Ali Entezarmahdi",
         "email": "ali.entezarmahdi@vrxglobal.com",
-        "expiration": "2026-03-14T07:00:00.000Z",
+        "issue_date": "2026-03-14T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -2957,7 +2934,7 @@
         "zip": 75244,
         "contact": "Perry Kakara",
         "email": "perry.kakara@woodplc.com",
-        "expiration": "2026-08-23T07:00:00.000Z",
+        "issue_date": "2026-08-23T07:00:00.000Z",
         "expiring_soon": "expiring_soon"
       },
       "geometry": {
@@ -2980,7 +2957,7 @@
         "zip": 77079,
         "contact": "Julio Salinas",
         "email": "julio.salinas@woolpert.com",
-        "expiration": "2024-09-22T07:00:00.000Z",
+        "issue_date": "2024-09-22T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -3003,7 +2980,7 @@
         "zip": 75501,
         "contact": "Buddy Williams",
         "email": "bwilliams@wbseng.com",
-        "expiration": "2026-03-14T07:00:00.000Z",
+        "issue_date": "2026-03-14T07:00:00.000Z",
         "expiring_soon": "expired"
       },
       "geometry": {
@@ -3026,7 +3003,7 @@
         "zip": 75791,
         "contact": "Owen Sanderson",
         "email": "osanderson@ettlinc.com",
-        "expiration": "",
+        "issue_date": "",
         "expiring_soon": "normal"
       },
       "geometry": {
