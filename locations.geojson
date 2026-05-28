@@ -14,7 +14,7 @@
         "contact": "Liz Mang",
         "email": "emang@kleinfelder.com",
         "issue_date": "2024-11-30T08:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -37,7 +37,7 @@
         "contact": "Cathey Galbreath",
         "email": "cathey.galbreath@aecom.com",
         "issue_date": "",
-        "expiring_soon": "normal"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -60,7 +60,7 @@
         "contact": "Alex Salcedo",
         "email": "asalcedo@ariasinc.com",
         "issue_date": "2026-12-08T08:00:00.000Z",
-        "expiring_soon": "normal"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -83,7 +83,7 @@
         "contact": "John S. Landwemeyer",
         "email": "jlandwermeyer@ariasinc.com",
         "issue_date": "2025-04-08T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -106,7 +106,7 @@
         "contact": "Mike Looney",
         "email": "mike.looney@aguirre-fields.com",
         "issue_date": "2024-10-10T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -129,7 +129,7 @@
         "contact": "Michael Steward",
         "email": "michael.steward@aguirre-fields.com",
         "issue_date": "2025-08-23T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -152,7 +152,7 @@
         "contact": "John Carson",
         "email": "jcarson@aggengr.com",
         "issue_date": "2026-04-25T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -175,7 +175,7 @@
         "contact": "Robert Nance",
         "email": "rnance@aggengr.com",
         "issue_date": "2026-08-31T07:00:00.000Z",
-        "expiring_soon": "expiring_soon"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -198,7 +198,7 @@
         "contact": "Terry Oswald",
         "email": "toswald@aggengr.com",
         "issue_date": "2025-07-21T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -221,7 +221,7 @@
         "contact": "Stacy Walle",
         "email": "swalle@aggengr.com",
         "issue_date": "2026-01-18T08:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -244,7 +244,7 @@
         "contact": "Robert Begole",
         "email": "rbegole@alphatesting.com",
         "issue_date": "2025-12-12T08:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -267,7 +267,7 @@
         "contact": "John Watson",
         "email": "John.watson2@atkinsrealis.com",
         "issue_date": "2024-10-18T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -290,7 +290,7 @@
         "contact": "Brett Haggerty",
         "email": "brett.haggerty@oneatlas.com",
         "issue_date": "2027-01-26T08:00:00.000Z",
-        "expiring_soon": "normal"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -313,7 +313,7 @@
         "contact": "Cole Hutson",
         "email": "cole.hutson@oneatlas.com",
         "issue_date": "2025-05-16T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -336,7 +336,7 @@
         "contact": "Jeffrey Buxton",
         "email": "jeffrey.buxton@oneatlas.com",
         "issue_date": "2024-05-21T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -359,7 +359,7 @@
         "contact": "Melodie Jimenez",
         "email": "melodie.jimenez@oneatlas.com",
         "issue_date": "2024-11-08T08:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -382,7 +382,7 @@
         "contact": "Jaosn Bartholomew",
         "email": "jason.bartholomew@oneatlas.com",
         "issue_date": "2027-02-13T08:00:00.000Z",
-        "expiring_soon": "normal"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -405,7 +405,7 @@
         "contact": "Dennis Turner",
         "email": "dennis.turner@oneatlas.com",
         "issue_date": "2025-08-30T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -428,7 +428,7 @@
         "contact": "Corey Ritchie",
         "email": "corey.ritchie@oneatlas.com",
         "issue_date": "2024-07-13T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -451,7 +451,7 @@
         "contact": "Dale Rand",
         "email": "dale.rand@oneatlas.com",
         "issue_date": "2026-03-10T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -474,7 +474,7 @@
         "contact": "Jacob Santellana",
         "email": "jacob.santellana@oneatlas.com",
         "issue_date": "2025-09-26T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -497,7 +497,7 @@
         "contact": "Jimmy Baldwin",
         "email": "Jimmy.Baldwin@oneatlas.com",
         "issue_date": "2026-02-28T08:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -520,7 +520,7 @@
         "contact": "Karl Dahm",
         "email": "kdahm@avilesengineering.com",
         "issue_date": "2025-09-08T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -543,7 +543,7 @@
         "contact": "Aisha Gonzalez",
         "email": "aisha@b2zeng.com",
         "issue_date": "2026-05-05T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -566,7 +566,7 @@
         "contact": "Hector Cantu",
         "email": "hector@b2zeng.com",
         "issue_date": "2025-07-28T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -589,7 +589,7 @@
         "contact": "Ramon Campos Jr.",
         "email": "ramon@b2zeng.com",
         "issue_date": "2024-11-30T08:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -612,7 +612,7 @@
         "contact": "Emilce Ferreira",
         "email": "emilce@browneep.com",
         "issue_date": "2025-07-21T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -635,7 +635,7 @@
         "contact": "Frank Yuan",
         "email": "frankyuan@beyondet.com",
         "issue_date": "2024-05-21T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -658,7 +658,7 @@
         "contact": "Edgar Zapata",
         "email": "edgarzapata@beyondet.com",
         "issue_date": "2025-06-09T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -681,7 +681,7 @@
         "contact": "Con Nguyen",
         "email": "connguyen@beyondet.com",
         "issue_date": "2025-12-12T08:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -704,7 +704,7 @@
         "contact": "Ezequiel Garcia",
         "email": "EzequielGarcia@BeyondET.com",
         "issue_date": "",
-        "expiring_soon": "normal"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -727,7 +727,7 @@
         "contact": "Siva Venigalla",
         "email": "SivaVenigalla@BeyondET.com",
         "issue_date": "",
-        "expiring_soon": "normal"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -750,7 +750,7 @@
         "contact": "Christopher Scullion",
         "email": "cscullion@bgeinc.com",
         "issue_date": "2028-02-09T08:00:00.000Z",
-        "expiring_soon": "normal"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -773,7 +773,7 @@
         "contact": "Brandon Bowie",
         "email": "brandon.bowie@bridgefarmer.com",
         "issue_date": "2025-07-21T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -796,7 +796,7 @@
         "contact": "Estevan (Steve) Camargo",
         "email": "scamargo@braunintertec.com",
         "issue_date": "2026-05-17T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -819,7 +819,7 @@
         "contact": "Fernando J de la Garza",
         "email": "delagarzafj@cdmsmith.com",
         "issue_date": "2024-06-03T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -842,7 +842,7 @@
         "contact": "Mario Villareal",
         "email": "mvillareal@consoreng.com",
         "issue_date": "2024-08-23T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -865,7 +865,7 @@
         "contact": "Mike Rogerio",
         "email": "mrogerio@cpyi.com",
         "issue_date": "2025-02-04T08:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -888,7 +888,7 @@
         "contact": "Jaime Rojas",
         "email": "jrojas@cqceng.com",
         "issue_date": "2025-02-11T08:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -911,7 +911,7 @@
         "contact": "Christy Hansel",
         "email": "chansel@geotex-engineering.com",
         "issue_date": "2025-07-31T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -934,7 +934,7 @@
         "contact": "Colt Peterson",
         "email": "coltp@dyesspeterson.com",
         "issue_date": "2025-11-10T08:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -957,7 +957,7 @@
         "contact": "Armando Velez",
         "email": "avelez@exmintl.com",
         "issue_date": "2024-12-03T08:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -980,7 +980,7 @@
         "contact": "Jeremy Bergstrom",
         "email": "jeremyb@estinc.com",
         "issue_date": "2025-04-30T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1003,7 +1003,7 @@
         "contact": "Josh Golleher",
         "email": "joshg@estinc.com",
         "issue_date": "2025-01-10T08:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1026,7 +1026,7 @@
         "contact": "Randy Floyd",
         "email": "randyf@estinc.com",
         "issue_date": "2024-10-11T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1049,7 +1049,7 @@
         "contact": "Jeremy Bergstrom",
         "email": "jeremyb@estinc.com",
         "issue_date": "2026-05-11T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1072,7 +1072,7 @@
         "contact": "Bryan Ogden",
         "email": "bryano@estinc.com",
         "issue_date": "2026-09-25T07:00:00.000Z",
-        "expiring_soon": "normal"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1095,7 +1095,7 @@
         "contact": "Jerry Sturgill",
         "email": "jsturgill@ettlinc.com",
         "issue_date": "2027-02-28T08:00:00.000Z",
-        "expiring_soon": "normal"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1118,7 +1118,7 @@
         "contact": "",
         "email": "",
         "issue_date": "",
-        "expiring_soon": "normal"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1141,7 +1141,7 @@
         "contact": "Tiffany Johnson",
         "email": "tjohnson@ettlinc.com",
         "issue_date": "",
-        "expiring_soon": "normal"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1164,7 +1164,7 @@
         "contact": "Hermanna Walka",
         "email": "hwalka@ettlinc.com",
         "issue_date": "2026-11-01T07:00:00.000Z",
-        "expiring_soon": "normal"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1187,7 +1187,7 @@
         "contact": "Deanni Gonzalez",
         "email": "danny.gonzalez@freese.com",
         "issue_date": "2024-05-19T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1210,7 +1210,7 @@
         "contact": "Brent Millar",
         "email": "brent.millar@freese.com",
         "issue_date": "2025-08-23T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1233,7 +1233,7 @@
         "contact": "Jimmy Si",
         "email": "j.si@fugro.com",
         "issue_date": "2024-10-31T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1256,7 +1256,7 @@
         "contact": "Michael Steward Jr.",
         "email": "MRSteward@garverusa.com",
         "issue_date": "2026-06-08T07:00:00.000Z",
-        "expiring_soon": "expiring_soon"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1279,7 +1279,7 @@
         "contact": "Madhu Munirathnam",
         "email": "madhu@geotesteng.com",
         "issue_date": "2025-08-25T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1302,7 +1302,7 @@
         "contact": "Tim Moody",
         "email": "tmoody@halff.com",
         "issue_date": "2025-01-31T08:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1325,7 +1325,7 @@
         "contact": "Tim Moody",
         "email": "tmoody@halff.com",
         "issue_date": "",
-        "expiring_soon": "normal"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1348,7 +1348,7 @@
         "contact": "Tim Moody",
         "email": "tmoody@halff.com",
         "issue_date": "",
-        "expiring_soon": "normal"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1371,7 +1371,7 @@
         "contact": "Joe With",
         "email": "jwith@hntb.com",
         "issue_date": "2024-06-28T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1394,7 +1394,7 @@
         "contact": "Catherine Hejl",
         "email": "chejl@hntb.com",
         "issue_date": "2025-03-28T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1417,7 +1417,7 @@
         "contact": "Clinton Best",
         "email": "clinton.best@hdrinc.com",
         "issue_date": "2025-10-18T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1440,7 +1440,7 @@
         "contact": "Mayur Patel",
         "email": "mpatel@hvj.com",
         "issue_date": "2026-02-01T08:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1463,7 +1463,7 @@
         "contact": "Gregory Larkin",
         "email": "GLarkin@hvj.com",
         "issue_date": "2025-05-10T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1486,7 +1486,7 @@
         "contact": "Syed Jafar",
         "email": "sjafar@hvj.com",
         "issue_date": "2027-01-18T08:00:00.000Z",
-        "expiring_soon": "normal"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1509,7 +1509,7 @@
         "contact": "Andy Menchaca",
         "email": "amenchaca@hvj.com",
         "issue_date": "2024-10-14T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1532,7 +1532,7 @@
         "contact": "Devarajan Chelliah",
         "email": "dchelliah@hvj.com",
         "issue_date": "2024-06-30T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1555,7 +1555,7 @@
         "contact": "Shashank Valluru",
         "email": "shashank.valluru@intertek.com",
         "issue_date": "2026-10-27T07:00:00.000Z",
-        "expiring_soon": "normal"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1578,7 +1578,7 @@
         "contact": "Andy Menchaca",
         "email": "amenchaca@hvj.com",
         "issue_date": "2024-10-14T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1601,7 +1601,7 @@
         "contact": "Joshua Moore",
         "email": "jmoore@ieaworld.com",
         "issue_date": "2024-06-03T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1624,7 +1624,7 @@
         "contact": "Brian Ross",
         "email": "brian.ross@intertek.com",
         "issue_date": "2026-07-12T07:00:00.000Z",
-        "expiring_soon": "expiring_soon"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1647,7 +1647,7 @@
         "contact": "Karl Crenwelge",
         "email": "karlcrenwelge@intertek.com",
         "issue_date": "2025-06-17T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1670,7 +1670,7 @@
         "contact": "Jose Acosta",
         "email": "joseacosta@intertek.com",
         "issue_date": "2025-07-28T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1693,7 +1693,7 @@
         "contact": "Ruben Barrientos",
         "email": "ruben.barrientos@intertek.com",
         "issue_date": "2025-02-24T08:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1716,7 +1716,7 @@
         "contact": "Reddy Vuske",
         "email": "sreenath.vuske@intertek.com",
         "issue_date": "2026-07-18T07:00:00.000Z",
-        "expiring_soon": "expiring_soon"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1739,7 +1739,7 @@
         "contact": "Chris Williams",
         "email": "chris.williams2@jacobs.com",
         "issue_date": "2025-10-12T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1762,7 +1762,7 @@
         "contact": "Josh Hartmangruber, P.E.",
         "email": "HartmangruberJ@yahoo.com",
         "issue_date": "2026-06-02T07:00:00.000Z",
-        "expiring_soon": "expiring_soon"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1785,7 +1785,7 @@
         "contact": "Bryan Wilson",
         "email": "bawilson@lja.com",
         "issue_date": "2025-01-30T08:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1808,7 +1808,7 @@
         "contact": "Paul Kieke",
         "email": "gstringer@hwlochner.com",
         "issue_date": "2025-08-30T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1831,7 +1831,7 @@
         "contact": "Ricky Floyd",
         "email": "rfloyd@hwlochner.com",
         "issue_date": "2026-02-03T08:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1854,7 +1854,7 @@
         "contact": "Brian Davidson",
         "email": "brian.davidson@lpcgllc.com",
         "issue_date": "2023-05-23T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1877,7 +1877,7 @@
         "contact": "Jason Clarke Dennis Alsup",
         "email": "Jason.Clarke@lamb-star.com",
         "issue_date": "2026-03-31T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1900,7 +1900,7 @@
         "contact": "Juan Palma",
         "email": "jppalma@megengineers.com",
         "issue_date": "2025-08-29T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1923,7 +1923,7 @@
         "contact": "Humberto Palma",
         "email": "hpalma@megengineers.com",
         "issue_date": "2025-10-18T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1946,7 +1946,7 @@
         "contact": "Andres Palma",
         "email": "apalma@megengineers.com",
         "issue_date": "2025-10-27T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1969,7 +1969,7 @@
         "contact": "Cronos Oros",
         "email": "coros@megengineers.com",
         "issue_date": "",
-        "expiring_soon": "normal"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -1992,7 +1992,7 @@
         "contact": "Tonya Woodruff",
         "email": "twoodruff@r2meng.com",
         "issue_date": "2025-11-28T08:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2015,7 +2015,7 @@
         "contact": "Jose Melendez",
         "email": "jmelendez@relcme.com",
         "issue_date": "2026-07-06T07:00:00.000Z",
-        "expiring_soon": "expiring_soon"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2038,7 +2038,7 @@
         "contact": "Oscar Rodriguez",
         "email": "orodriguez@relcme.com",
         "issue_date": "2026-03-30T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2061,7 +2061,7 @@
         "contact": "Ricardo Avila",
         "email": "ravila@relcme.com",
         "issue_date": "2025-04-30T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2084,7 +2084,7 @@
         "contact": "Josefa Garza",
         "email": "jgarza@relcme.com",
         "issue_date": "2025-12-05T08:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2107,7 +2107,7 @@
         "contact": "David Belser",
         "email": "David Belser <david.belser@rkci.com>",
         "issue_date": "2025-08-31T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2130,7 +2130,7 @@
         "contact": "Frank Zuniga",
         "email": "fzuniga@rkci.com",
         "issue_date": "2026-03-21T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2153,7 +2153,7 @@
         "contact": "Jacob Fuentes",
         "email": "jacob.fuentes@rkci.com",
         "issue_date": "2025-04-07T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2176,7 +2176,7 @@
         "contact": "David Johnson",
         "email": "david.johnson@rkci.com",
         "issue_date": "2026-08-16T07:00:00.000Z",
-        "expiring_soon": "expiring_soon"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2199,7 +2199,7 @@
         "contact": "Katrin M. Leonard",
         "email": "kmiovski@rkci.com",
         "issue_date": "2026-11-14T08:00:00.000Z",
-        "expiring_soon": "normal"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2222,7 +2222,7 @@
         "contact": "Jacob Fuentes",
         "email": "jacob.fuentes@rkci.com",
         "issue_date": "2027-03-01T08:00:00.000Z",
-        "expiring_soon": "normal"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2245,7 +2245,7 @@
         "contact": "Reddy Vuske",
         "email": "reddy.vuske@rkci.com",
         "issue_date": "2024-07-31T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2268,7 +2268,7 @@
         "contact": "Dickson Graham",
         "email": "dgraham@rkci.com",
         "issue_date": "2024-10-31T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2291,7 +2291,7 @@
         "contact": "Brent Adams",
         "email": "brent.adams@rkci.com",
         "issue_date": "2026-03-23T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2314,7 +2314,7 @@
         "contact": "Faith Walters",
         "email": "fwalters@rkci.com",
         "issue_date": "2026-10-09T07:00:00.000Z",
-        "expiring_soon": "normal"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2337,7 +2337,7 @@
         "contact": "Joshua McFarlain",
         "email": "jmcfarlain@roneengineers.com",
         "issue_date": "2026-02-14T08:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2360,7 +2360,7 @@
         "contact": "Tyler Tolley",
         "email": "tyler.tolley@rsandh.com",
         "issue_date": "2025-11-29T08:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2383,7 +2383,7 @@
         "contact": "Julie Hero",
         "email": "julie.hero@rsandh.com",
         "issue_date": "2025-08-24T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2406,7 +2406,7 @@
         "contact": "Cody Hans",
         "email": "cody.hans@rsandh.com",
         "issue_date": "2025-10-19T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2429,7 +2429,7 @@
         "contact": "Zeke Zieschang",
         "email": "zeke.zieschang@sam-cs.biz",
         "issue_date": "2025-06-07T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2452,7 +2452,7 @@
         "contact": "Paul Brodin",
         "email": "brodin@sam-cs.biz",
         "issue_date": "2025-04-15T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2475,7 +2475,7 @@
         "contact": "Fernando Salazar",
         "email": "fsalazar@ssa-pe.com",
         "issue_date": "2025-07-21T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2498,7 +2498,7 @@
         "contact": "Damian Bozek",
         "email": "damianbozek@tcsengineering.com",
         "issue_date": "2025-11-28T08:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2521,7 +2521,7 @@
         "contact": "Damian Bozek",
         "email": "DamianBozek@tcsengineering.com",
         "issue_date": "2026-03-23T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2544,7 +2544,7 @@
         "contact": "David Belser",
         "email": "David Belser <david.belser@rkci.com>",
         "issue_date": "2025-07-28T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2567,7 +2567,7 @@
         "contact": "Bruce Walton",
         "email": "bwalton@teamconsultants.net",
         "issue_date": "2024-05-31T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2590,7 +2590,7 @@
         "contact": "Todd Whisenhunt",
         "email": "ToddWTX@hotmail.com",
         "issue_date": "2026-05-01T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2613,7 +2613,7 @@
         "contact": "Nick Willick",
         "email": "nick.willick@terracon.com",
         "issue_date": "2026-02-28T08:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2636,7 +2636,7 @@
         "contact": "Raymond Rodriguez",
         "email": "raymond.rodriguez@terracon.com",
         "issue_date": "2027-01-29T08:00:00.000Z",
-        "expiring_soon": "normal"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2659,7 +2659,7 @@
         "contact": "Rodolfo Rascon De Lira",
         "email": "Rodolfo.Rascon@terracon.com",
         "issue_date": "2026-02-15T08:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2682,7 +2682,7 @@
         "contact": "Jorge Perez",
         "email": "jorge.perez@terracon.com",
         "issue_date": "2026-07-24T07:00:00.000Z",
-        "expiring_soon": "expiring_soon"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2705,7 +2705,7 @@
         "contact": "Chris Border",
         "email": "chris.border@terracon.com",
         "issue_date": "2026-11-15T08:00:00.000Z",
-        "expiring_soon": "normal"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2728,7 +2728,7 @@
         "contact": "Yatish A. Jakatimath",
         "email": "yatish.jakatimath@terracon.com",
         "issue_date": "",
-        "expiring_soon": "normal"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2751,7 +2751,7 @@
         "contact": "Travis Kilgore",
         "email": "tkilgore@thompsonengineering.com",
         "issue_date": "2025-05-30T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2774,7 +2774,7 @@
         "contact": "Terry Smith Jr. & Arthur Etherly",
         "email": "TSmithJr@tsitengineering",
         "issue_date": "2026-11-06T08:00:00.000Z",
-        "expiring_soon": "normal"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2797,7 +2797,7 @@
         "contact": "Terry Smith Jr. & Arthur Etherly",
         "email": "TSmithJr@tsitengineering",
         "issue_date": "",
-        "expiring_soon": "normal"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2820,7 +2820,7 @@
         "contact": "Thomas De La Portilla",
         "email": "thomas.delaportilla@volkert.com",
         "issue_date": "2024-05-22T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2843,7 +2843,7 @@
         "contact": "Thomas De La Portilla",
         "email": "thomas.delaportilla@volkert.com",
         "issue_date": "2026-03-27T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2866,7 +2866,7 @@
         "contact": "Hayden Moore",
         "email": "hayden.moore@vrxglobal.com",
         "issue_date": "2025-03-24T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2889,7 +2889,7 @@
         "contact": "Xose L. Perez",
         "email": "xose.perez@vrxglobal.com",
         "issue_date": "2024-06-07T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2912,7 +2912,7 @@
         "contact": "Ali Entezarmahdi",
         "email": "ali.entezarmahdi@vrxglobal.com",
         "issue_date": "2026-03-14T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2935,7 +2935,7 @@
         "contact": "Perry Kakara",
         "email": "perry.kakara@woodplc.com",
         "issue_date": "2026-08-23T07:00:00.000Z",
-        "expiring_soon": "expiring_soon"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2958,7 +2958,7 @@
         "contact": "Julio Salinas",
         "email": "julio.salinas@woolpert.com",
         "issue_date": "2024-09-22T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -2981,7 +2981,7 @@
         "contact": "Buddy Williams",
         "email": "bwilliams@wbseng.com",
         "issue_date": "2026-03-14T07:00:00.000Z",
-        "expiring_soon": "expired"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
@@ -3004,7 +3004,7 @@
         "contact": "Owen Sanderson",
         "email": "osanderson@ettlinc.com",
         "issue_date": "",
-        "expiring_soon": "normal"
+        "audit_needed": "none-needed"
       },
       "geometry": {
         "type": "Point",
