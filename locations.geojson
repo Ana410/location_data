@@ -13,7 +13,7 @@
         "zip": 75063,
         "contact": "Liz Mang",
         "email": "emang@kleinfelder.com",
-        "issue_date": "2024-11-30T08:00:00.000Z",
+        "issue_date": "2025-01-31T08:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -21,29 +21,6 @@
         "coordinates": [
           -96.99148799999999,
           32.914652
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "lab_id": "90AEC002",
-        "name": "AECOM",
-        "area": "4508 N IH 35",
-        "address": "Austin, TX",
-        "city": "Austin",
-        "state": "TX",
-        "zip": 78751,
-        "contact": "Cathey Galbreath",
-        "email": "cathey.galbreath@aecom.com",
-        "issue_date": "",
-        "audit_needed": "none-needed"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.725376,
-          30.3055711
         ]
       }
     },
@@ -59,7 +36,7 @@
         "zip": 78232,
         "contact": "Alex Salcedo",
         "email": "asalcedo@ariasinc.com",
-        "issue_date": "2026-12-08T08:00:00.000Z",
+        "issue_date": "2023-12-08T08:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -96,6 +73,29 @@
     {
       "type": "Feature",
       "properties": {
+        "lab_id": "90AEC002",
+        "name": "AECOM",
+        "area": "4508 N IH 35",
+        "address": "Austin, TX",
+        "city": "Austin",
+        "state": "TX",
+        "zip": 78751,
+        "contact": "Cathey Galbreath",
+        "email": "cathey.galbreath@aecom.com",
+        "issue_date": "",
+        "audit_needed": "none-needed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.725376,
+          30.3055711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "lab_id": "90AG&FIELD",
         "name": "Aguirre & Fields - FTW",
         "area": "AGUIRRE & FIELDS",
@@ -105,7 +105,7 @@
         "zip": 76107,
         "contact": "Mike Looney",
         "email": "mike.looney@aguirre-fields.com",
-        "issue_date": "2024-10-10T07:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -128,7 +128,7 @@
         "zip": 78109,
         "contact": "Michael Steward",
         "email": "michael.steward@aguirre-fields.com",
-        "issue_date": "2025-08-23T07:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -151,7 +151,7 @@
         "zip": 75247,
         "contact": "John Carson",
         "email": "jcarson@aggengr.com",
-        "issue_date": "2026-04-25T07:00:00.000Z",
+        "issue_date": "2023-04-25T07:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -174,8 +174,8 @@
         "zip": 76140,
         "contact": "Robert Nance",
         "email": "rnance@aggengr.com",
-        "issue_date": "2026-08-31T07:00:00.000Z",
-        "audit_needed": "none-needed"
+        "issue_date": "2023-08-31T07:00:00.000Z",
+        "audit_needed": "expiration"
       },
       "geometry": {
         "type": "Point",
@@ -198,7 +198,7 @@
         "contact": "Terry Oswald",
         "email": "toswald@aggengr.com",
         "issue_date": "2025-07-21T07:00:00.000Z",
-        "audit_needed": "none-needed"
+        "audit_needed": "1-2 audit"
       },
       "geometry": {
         "type": "Point",
@@ -220,7 +220,7 @@
         "zip": 77040,
         "contact": "Stacy Walle",
         "email": "swalle@aggengr.com",
-        "issue_date": "2026-01-18T08:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -235,7 +235,7 @@
       "type": "Feature",
       "properties": {
         "lab_id": "90ATI002",
-        "name": "Alpha Testing Inc.- FTW",
+        "name": "UES Formerly - Alpha Testing Inc.- FTW",
         "area": "ALPHA TESTING, INC.",
         "address": "5058 Brush Creek Road",
         "city": "Fort Worth",
@@ -243,8 +243,8 @@
         "zip": 76119,
         "contact": "Robert Begole",
         "email": "rbegole@alphatesting.com",
-        "issue_date": "2025-12-12T08:00:00.000Z",
-        "audit_needed": "none-needed"
+        "issue_date": "2024-09-25T07:00:00.000Z",
+        "audit_needed": "2-3 audit"
       },
       "geometry": {
         "type": "Point",
@@ -266,7 +266,7 @@
         "zip": 77024,
         "contact": "John Watson",
         "email": "John.watson2@atkinsrealis.com",
-        "issue_date": "2024-10-18T07:00:00.000Z",
+        "issue_date": "2024-10-01T07:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -289,7 +289,7 @@
         "zip": 78233,
         "contact": "Brett Haggerty",
         "email": "brett.haggerty@oneatlas.com",
-        "issue_date": "2027-01-26T08:00:00.000Z",
+        "issue_date": "2024-05-01T07:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -312,7 +312,7 @@
         "zip": 79404,
         "contact": "Cole Hutson",
         "email": "cole.hutson@oneatlas.com",
-        "issue_date": "2025-05-16T07:00:00.000Z",
+        "issue_date": "2023-10-16T07:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -358,7 +358,7 @@
         "zip": 79932,
         "contact": "Melodie Jimenez",
         "email": "melodie.jimenez@oneatlas.com",
-        "issue_date": "2024-11-08T08:00:00.000Z",
+        "issue_date": "2024-10-22T07:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -381,7 +381,7 @@
         "zip": 76118,
         "contact": "Jaosn Bartholomew",
         "email": "jason.bartholomew@oneatlas.com",
-        "issue_date": "2027-02-13T08:00:00.000Z",
+        "issue_date": "2024-02-13T08:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -404,8 +404,8 @@
         "zip": 77092,
         "contact": "Dennis Turner",
         "email": "dennis.turner@oneatlas.com",
-        "issue_date": "2025-08-30T07:00:00.000Z",
-        "audit_needed": "none-needed"
+        "issue_date": "2025-09-08T07:00:00.000Z",
+        "audit_needed": "1-2 audit"
       },
       "geometry": {
         "type": "Point",
@@ -427,7 +427,7 @@
         "zip": 79705,
         "contact": "Corey Ritchie",
         "email": "corey.ritchie@oneatlas.com",
-        "issue_date": "2024-07-13T07:00:00.000Z",
+        "issue_date": "2023-05-02T07:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -496,7 +496,7 @@
         "zip": 78736,
         "contact": "Jimmy Baldwin",
         "email": "Jimmy.Baldwin@oneatlas.com",
-        "issue_date": "2026-02-28T08:00:00.000Z",
+        "issue_date": "2026-02-13T08:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -519,7 +519,7 @@
         "zip": 77041,
         "contact": "Karl Dahm",
         "email": "kdahm@avilesengineering.com",
-        "issue_date": "2025-09-08T07:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -542,7 +542,7 @@
         "zip": 78572,
         "contact": "Aisha Gonzalez",
         "email": "aisha@b2zeng.com",
-        "issue_date": "2026-05-05T07:00:00.000Z",
+        "issue_date": "2026-04-14T07:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -565,8 +565,8 @@
         "zip": 77084,
         "contact": "Hector Cantu",
         "email": "hector@b2zeng.com",
-        "issue_date": "2025-07-28T07:00:00.000Z",
-        "audit_needed": "none-needed"
+        "issue_date": "2025-07-22T07:00:00.000Z",
+        "audit_needed": "1-2 audit"
       },
       "geometry": {
         "type": "Point",
@@ -588,7 +588,7 @@
         "zip": 78724,
         "contact": "Ramon Campos Jr.",
         "email": "ramon@b2zeng.com",
-        "issue_date": "2024-11-30T08:00:00.000Z",
+        "issue_date": "2024-11-18T08:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -611,7 +611,7 @@
         "zip": 75230,
         "contact": "Emilce Ferreira",
         "email": "emilce@browneep.com",
-        "issue_date": "2025-07-21T07:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -634,7 +634,7 @@
         "zip": 78664,
         "contact": "Frank Yuan",
         "email": "frankyuan@beyondet.com",
-        "issue_date": "2024-05-21T07:00:00.000Z",
+        "issue_date": "2024-05-24T07:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -657,8 +657,8 @@
         "zip": 79706,
         "contact": "Edgar Zapata",
         "email": "edgarzapata@beyondet.com",
-        "issue_date": "2025-06-09T07:00:00.000Z",
-        "audit_needed": "none-needed"
+        "issue_date": "2025-06-06T07:00:00.000Z",
+        "audit_needed": "1-2 audit"
       },
       "geometry": {
         "type": "Point",
@@ -680,7 +680,7 @@
         "zip": 75006,
         "contact": "Con Nguyen",
         "email": "connguyen@beyondet.com",
-        "issue_date": "2025-12-12T08:00:00.000Z",
+        "issue_date": "2025-12-02T08:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -688,29 +688,6 @@
         "coordinates": [
           -96.9179886,
           32.937303
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "lab_id": "90BET005",
-        "name": "Beyond Engineering - Columbus",
-        "area": "BEYOND ENGINEERING AND TESTING, LLC",
-        "address": "4336 S. IH10 Road",
-        "city": "Columbus",
-        "state": "TX",
-        "zip": "",
-        "contact": "Ezequiel Garcia",
-        "email": "EzequielGarcia@BeyondET.com",
-        "issue_date": "",
-        "audit_needed": "none-needed"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.5439045,
-          29.6908501
         ]
       }
     },
@@ -726,7 +703,7 @@
         "zip": 75559,
         "contact": "Siva Venigalla",
         "email": "SivaVenigalla@BeyondET.com",
-        "issue_date": "",
+        "issue_date": "2025-02-18T08:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -734,6 +711,29 @@
         "coordinates": [
           -94.6401844,
           33.517632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lab_id": "90BET005",
+        "name": "Beyond Engineering - Columbus",
+        "area": "BEYOND ENGINEERING AND TESTING, LLC",
+        "address": "4336 S. IH10 Road",
+        "city": "Columbus",
+        "state": "TX",
+        "zip": "",
+        "contact": "Ezequiel Garcia",
+        "email": "EzequielGarcia@BeyondET.com",
+        "issue_date": "2025-06-06T07:00:00.000Z",
+        "audit_needed": "1-2 audit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5439045,
+          29.6908501
         ]
       }
     },
@@ -749,7 +749,7 @@
         "zip": 77042,
         "contact": "Christopher Scullion",
         "email": "cscullion@bgeinc.com",
-        "issue_date": "2028-02-09T08:00:00.000Z",
+        "issue_date": "2025-02-09T08:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -772,7 +772,7 @@
         "zip": 75234,
         "contact": "Brandon Bowie",
         "email": "brandon.bowie@bridgefarmer.com",
-        "issue_date": "2025-07-21T07:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -795,7 +795,7 @@
         "zip": 79160,
         "contact": "Estevan (Steve) Camargo",
         "email": "scamargo@braunintertec.com",
-        "issue_date": "2026-05-17T07:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -818,7 +818,7 @@
         "zip": 77077,
         "contact": "Fernando J de la Garza",
         "email": "delagarzafj@cdmsmith.com",
-        "issue_date": "2024-06-03T07:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -841,7 +841,7 @@
         "zip": 77084,
         "contact": "Mario Villareal",
         "email": "mvillareal@consoreng.com",
-        "issue_date": "2024-08-23T07:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -864,7 +864,7 @@
         "zip": 78216,
         "contact": "Mike Rogerio",
         "email": "mrogerio@cpyi.com",
-        "issue_date": "2025-02-04T08:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -887,7 +887,7 @@
         "zip": 79904,
         "contact": "Jaime Rojas",
         "email": "jrojas@cqceng.com",
-        "issue_date": "2025-02-11T08:00:00.000Z",
+        "issue_date": "2025-02-16T08:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -911,7 +911,7 @@
         "contact": "Christy Hansel",
         "email": "chansel@geotex-engineering.com",
         "issue_date": "2025-07-31T07:00:00.000Z",
-        "audit_needed": "none-needed"
+        "audit_needed": "1-2 audit"
       },
       "geometry": {
         "type": "Point",
@@ -933,7 +933,7 @@
         "zip": 79103,
         "contact": "Colt Peterson",
         "email": "coltp@dyesspeterson.com",
-        "issue_date": "2025-11-10T08:00:00.000Z",
+        "issue_date": "2025-10-28T07:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -956,7 +956,7 @@
         "zip": 79902,
         "contact": "Armando Velez",
         "email": "avelez@exmintl.com",
-        "issue_date": "2024-12-03T08:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -979,7 +979,7 @@
         "zip": 75454,
         "contact": "Jeremy Bergstrom",
         "email": "jeremyb@estinc.com",
-        "issue_date": "2025-04-30T07:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -1002,7 +1002,7 @@
         "zip": 75980,
         "contact": "Josh Golleher",
         "email": "joshg@estinc.com",
-        "issue_date": "2025-01-10T08:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -1025,7 +1025,7 @@
         "zip": 75460,
         "contact": "Randy Floyd",
         "email": "randyf@estinc.com",
-        "issue_date": "2024-10-11T07:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -1048,7 +1048,7 @@
         "zip": 75234,
         "contact": "Jeremy Bergstrom",
         "email": "jeremyb@estinc.com",
-        "issue_date": "2026-05-11T07:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -1071,7 +1071,7 @@
         "zip": 76001,
         "contact": "Bryan Ogden",
         "email": "bryano@estinc.com",
-        "issue_date": "2026-09-25T07:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -1079,6 +1079,29 @@
         "coordinates": [
           -97.1582681,
           32.6161719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lab_id": "90ETT001",
+        "name": "ETTL Engineers & Consultants, Inc. (Tyler)",
+        "area": "Tyler",
+        "address": "3527 Star Rd.",
+        "city": "Whitehouse",
+        "state": "TX",
+        "zip": 75791,
+        "contact": "Owen Sanderson",
+        "email": "osanderson@ettlinc.com",
+        "issue_date": "",
+        "audit_needed": "none-needed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.246962,
+          32.2761114
         ]
       }
     },
@@ -1094,7 +1117,7 @@
         "zip": 76001,
         "contact": "Jerry Sturgill",
         "email": "jsturgill@ettlinc.com",
-        "issue_date": "2027-02-28T08:00:00.000Z",
+        "issue_date": "2024-02-28T08:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -1117,7 +1140,7 @@
         "zip": "",
         "contact": "",
         "email": "",
-        "issue_date": "",
+        "issue_date": "2025-01-16T08:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -1140,8 +1163,8 @@
         "zip": 78754,
         "contact": "Tiffany Johnson",
         "email": "tjohnson@ettlinc.com",
-        "issue_date": "",
-        "audit_needed": "none-needed"
+        "issue_date": "2025-09-25T07:00:00.000Z",
+        "audit_needed": "1-2 audit"
       },
       "geometry": {
         "type": "Point",
@@ -1163,7 +1186,7 @@
         "zip": 75702,
         "contact": "Hermanna Walka",
         "email": "hwalka@ettlinc.com",
-        "issue_date": "2026-11-01T07:00:00.000Z",
+        "issue_date": "2025-05-15T07:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -1186,7 +1209,7 @@
         "zip": 76109,
         "contact": "Deanni Gonzalez",
         "email": "danny.gonzalez@freese.com",
-        "issue_date": "2024-05-19T07:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -1209,7 +1232,7 @@
         "zip": 78216,
         "contact": "Brent Millar",
         "email": "brent.millar@freese.com",
-        "issue_date": "2025-08-23T07:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -1232,7 +1255,7 @@
         "zip": 78754,
         "contact": "Jimmy Si",
         "email": "j.si@fugro.com",
-        "issue_date": "2024-10-31T07:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -1255,8 +1278,8 @@
         "zip": 75034,
         "contact": "Michael Steward Jr.",
         "email": "MRSteward@garverusa.com",
-        "issue_date": "2026-06-08T07:00:00.000Z",
-        "audit_needed": "none-needed"
+        "issue_date": "2023-06-08T07:00:00.000Z",
+        "audit_needed": "expiration"
       },
       "geometry": {
         "type": "Point",
@@ -1279,7 +1302,7 @@
         "contact": "Madhu Munirathnam",
         "email": "madhu@geotesteng.com",
         "issue_date": "2025-08-25T07:00:00.000Z",
-        "audit_needed": "none-needed"
+        "audit_needed": "1-2 audit"
       },
       "geometry": {
         "type": "Point",
@@ -1301,7 +1324,7 @@
         "zip": 75701,
         "contact": "Tim Moody",
         "email": "tmoody@halff.com",
-        "issue_date": "2025-01-31T08:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -1347,7 +1370,7 @@
         "zip": 75603,
         "contact": "Tim Moody",
         "email": "tmoody@halff.com",
-        "issue_date": "",
+        "issue_date": "2026-04-08T07:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -1370,7 +1393,7 @@
         "zip": 75024,
         "contact": "Joe With",
         "email": "jwith@hntb.com",
-        "issue_date": "2024-06-28T07:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -1416,7 +1439,7 @@
         "zip": 78681,
         "contact": "Clinton Best",
         "email": "clinton.best@hdrinc.com",
-        "issue_date": "2025-10-18T07:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -1439,7 +1462,7 @@
         "zip": 77072,
         "contact": "Mayur Patel",
         "email": "mpatel@hvj.com",
-        "issue_date": "2026-02-01T08:00:00.000Z",
+        "issue_date": "2026-01-23T08:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -1470,29 +1493,6 @@
         "coordinates": [
           -97.7480013,
           30.2118142
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "lab_id": "90HVJ010",
-        "name": "HVJ South Central Texas - San Antonio",
-        "area": "HVJ ASSOCIATES",
-        "address": "206 W. Rhapsody Drive",
-        "city": "San Antonio",
-        "state": "TX",
-        "zip": 78216,
-        "contact": "Syed Jafar",
-        "email": "sjafar@hvj.com",
-        "issue_date": "2027-01-18T08:00:00.000Z",
-        "audit_needed": "none-needed"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.49833199999999,
-          29.5463492
         ]
       }
     },
@@ -1531,8 +1531,8 @@
         "zip": 75247,
         "contact": "Devarajan Chelliah",
         "email": "dchelliah@hvj.com",
-        "issue_date": "2024-06-30T07:00:00.000Z",
-        "audit_needed": "none-needed"
+        "issue_date": "2023-06-21T07:00:00.000Z",
+        "audit_needed": "expiration"
       },
       "geometry": {
         "type": "Point",
@@ -1554,7 +1554,7 @@
         "zip": 78577,
         "contact": "Shashank Valluru",
         "email": "shashank.valluru@intertek.com",
-        "issue_date": "2026-10-27T07:00:00.000Z",
+        "issue_date": "2023-10-27T07:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -1562,6 +1562,29 @@
         "coordinates": [
           -98.18428809999999,
           26.2063351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lab_id": "90HVJ010",
+        "name": "HVJ South Central Texas - San Antonio",
+        "area": "HVJ ASSOCIATES",
+        "address": "206 W. Rhapsody Drive",
+        "city": "San Antonio",
+        "state": "TX",
+        "zip": 78216,
+        "contact": "Syed Jafar",
+        "email": "sjafar@hvj.com",
+        "issue_date": "2024-08-23T07:00:00.000Z",
+        "audit_needed": "2-3 audit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.49833199999999,
+          29.5463492
         ]
       }
     },
@@ -1577,7 +1600,7 @@
         "zip": 79924,
         "contact": "Andy Menchaca",
         "email": "amenchaca@hvj.com",
-        "issue_date": "2024-10-14T07:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -1600,7 +1623,7 @@
         "zip": 76102,
         "contact": "Joshua Moore",
         "email": "jmoore@ieaworld.com",
-        "issue_date": "2024-06-03T07:00:00.000Z",
+        "issue_date": "2024-05-09T07:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -1623,8 +1646,8 @@
         "zip": 75234,
         "contact": "Brian Ross",
         "email": "brian.ross@intertek.com",
-        "issue_date": "2026-07-12T07:00:00.000Z",
-        "audit_needed": "none-needed"
+        "issue_date": "2023-07-12T07:00:00.000Z",
+        "audit_needed": "expiration"
       },
       "geometry": {
         "type": "Point",
@@ -1646,7 +1669,7 @@
         "zip": 78216,
         "contact": "Karl Crenwelge",
         "email": "karlcrenwelge@intertek.com",
-        "issue_date": "2025-06-17T07:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -1669,7 +1692,7 @@
         "zip": 79765,
         "contact": "Jose Acosta",
         "email": "joseacosta@intertek.com",
-        "issue_date": "2025-07-28T07:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -1692,7 +1715,7 @@
         "zip": 79932,
         "contact": "Ruben Barrientos",
         "email": "ruben.barrientos@intertek.com",
-        "issue_date": "2025-02-24T08:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -1715,8 +1738,8 @@
         "zip": 75042,
         "contact": "Reddy Vuske",
         "email": "sreenath.vuske@intertek.com",
-        "issue_date": "2026-07-18T07:00:00.000Z",
-        "audit_needed": "none-needed"
+        "issue_date": "2023-07-18T07:00:00.000Z",
+        "audit_needed": "expiration"
       },
       "geometry": {
         "type": "Point",
@@ -1738,7 +1761,7 @@
         "zip": 76102,
         "contact": "Chris Williams",
         "email": "chris.williams2@jacobs.com",
-        "issue_date": "2025-10-12T07:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -1761,8 +1784,8 @@
         "zip": 76309,
         "contact": "Josh Hartmangruber, P.E.",
         "email": "HartmangruberJ@yahoo.com",
-        "issue_date": "2026-06-02T07:00:00.000Z",
-        "audit_needed": "none-needed"
+        "issue_date": "2023-06-02T07:00:00.000Z",
+        "audit_needed": "expiration"
       },
       "geometry": {
         "type": "Point",
@@ -1784,7 +1807,7 @@
         "zip": 76006,
         "contact": "Bryan Wilson",
         "email": "bawilson@lja.com",
-        "issue_date": "2025-01-30T08:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -1807,7 +1830,7 @@
         "zip": 78216,
         "contact": "Paul Kieke",
         "email": "gstringer@hwlochner.com",
-        "issue_date": "2025-08-30T07:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -1830,7 +1853,7 @@
         "zip": 75251,
         "contact": "Ricky Floyd",
         "email": "rfloyd@hwlochner.com",
-        "issue_date": "2026-02-03T08:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -1853,7 +1876,7 @@
         "zip": 78132,
         "contact": "Brian Davidson",
         "email": "brian.davidson@lpcgllc.com",
-        "issue_date": "2023-05-23T07:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -1876,7 +1899,7 @@
         "zip": 75034,
         "contact": "Jason Clarke Dennis Alsup",
         "email": "Jason.Clarke@lamb-star.com",
-        "issue_date": "2026-03-31T07:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -1899,7 +1922,7 @@
         "zip": 79764,
         "contact": "Juan Palma",
         "email": "jppalma@megengineers.com",
-        "issue_date": "2025-08-29T07:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -1922,7 +1945,7 @@
         "zip": 77034,
         "contact": "Humberto Palma",
         "email": "hpalma@megengineers.com",
-        "issue_date": "2025-10-18T07:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -1968,7 +1991,7 @@
         "zip": 78586,
         "contact": "Cronos Oros",
         "email": "coros@megengineers.com",
-        "issue_date": "",
+        "issue_date": "TBD",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -1991,7 +2014,7 @@
         "zip": 79414,
         "contact": "Tonya Woodruff",
         "email": "twoodruff@r2meng.com",
-        "issue_date": "2025-11-28T08:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -2014,8 +2037,8 @@
         "zip": 78728,
         "contact": "Jose Melendez",
         "email": "jmelendez@relcme.com",
-        "issue_date": "2026-07-06T07:00:00.000Z",
-        "audit_needed": "none-needed"
+        "issue_date": "2023-07-06T07:00:00.000Z",
+        "audit_needed": "expiration"
       },
       "geometry": {
         "type": "Point",
@@ -2037,7 +2060,7 @@
         "zip": 78577,
         "contact": "Oscar Rodriguez",
         "email": "orodriguez@relcme.com",
-        "issue_date": "2026-03-30T07:00:00.000Z",
+        "issue_date": "2026-03-27T07:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -2083,7 +2106,7 @@
         "zip": 76102,
         "contact": "Josefa Garza",
         "email": "jgarza@relcme.com",
-        "issue_date": "2025-12-05T08:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -2106,8 +2129,8 @@
         "zip": 78217,
         "contact": "David Belser",
         "email": "David Belser <david.belser@rkci.com>",
-        "issue_date": "2025-08-31T07:00:00.000Z",
-        "audit_needed": "none-needed"
+        "issue_date": "2025-08-15T07:00:00.000Z",
+        "audit_needed": "1-2 audit"
       },
       "geometry": {
         "type": "Point",
@@ -2129,7 +2152,7 @@
         "zip": 78754,
         "contact": "Frank Zuniga",
         "email": "fzuniga@rkci.com",
-        "issue_date": "2026-03-21T07:00:00.000Z",
+        "issue_date": "2023-03-21T07:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -2175,8 +2198,8 @@
         "zip": 75244,
         "contact": "David Johnson",
         "email": "david.johnson@rkci.com",
-        "issue_date": "2026-08-16T07:00:00.000Z",
-        "audit_needed": "none-needed"
+        "issue_date": "2023-08-16T07:00:00.000Z",
+        "audit_needed": "expiration"
       },
       "geometry": {
         "type": "Point",
@@ -2198,7 +2221,7 @@
         "zip": 78501,
         "contact": "Katrin M. Leonard",
         "email": "kmiovski@rkci.com",
-        "issue_date": "2026-11-14T08:00:00.000Z",
+        "issue_date": "2023-11-14T08:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -2221,7 +2244,7 @@
         "zip": 78249,
         "contact": "Jacob Fuentes",
         "email": "jacob.fuentes@rkci.com",
-        "issue_date": "2027-03-01T08:00:00.000Z",
+        "issue_date": "2024-03-01T08:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -2244,7 +2267,7 @@
         "zip": 75224,
         "contact": "Reddy Vuske",
         "email": "reddy.vuske@rkci.com",
-        "issue_date": "2024-07-31T07:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -2267,7 +2290,7 @@
         "zip": 78736,
         "contact": "Dickson Graham",
         "email": "dgraham@rkci.com",
-        "issue_date": "2024-10-31T07:00:00.000Z",
+        "issue_date": "2024-10-18T07:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -2313,7 +2336,7 @@
         "zip": 77705,
         "contact": "Faith Walters",
         "email": "fwalters@rkci.com",
-        "issue_date": "2026-10-09T07:00:00.000Z",
+        "issue_date": "2023-10-09T07:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -2336,7 +2359,7 @@
         "zip": 76137,
         "contact": "Joshua McFarlain",
         "email": "jmcfarlain@roneengineers.com",
-        "issue_date": "2026-02-14T08:00:00.000Z",
+        "issue_date": "2026-01-22T08:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -2359,7 +2382,7 @@
         "zip": 76903,
         "contact": "Tyler Tolley",
         "email": "tyler.tolley@rsandh.com",
-        "issue_date": "2025-11-29T08:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -2382,8 +2405,8 @@
         "zip": 75604,
         "contact": "Julie Hero",
         "email": "julie.hero@rsandh.com",
-        "issue_date": "2025-08-24T07:00:00.000Z",
-        "audit_needed": "none-needed"
+        "issue_date": "2025-08-25T07:00:00.000Z",
+        "audit_needed": "1-2 audit"
       },
       "geometry": {
         "type": "Point",
@@ -2405,7 +2428,7 @@
         "zip": 78610,
         "contact": "Cody Hans",
         "email": "cody.hans@rsandh.com",
-        "issue_date": "2025-10-19T07:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -2428,8 +2451,8 @@
         "zip": 78232,
         "contact": "Zeke Zieschang",
         "email": "zeke.zieschang@sam-cs.biz",
-        "issue_date": "2025-06-07T07:00:00.000Z",
-        "audit_needed": "none-needed"
+        "issue_date": "2025-07-18T07:00:00.000Z",
+        "audit_needed": "1-2 audit"
       },
       "geometry": {
         "type": "Point",
@@ -2451,8 +2474,8 @@
         "zip": 77079,
         "contact": "Paul Brodin",
         "email": "brodin@sam-cs.biz",
-        "issue_date": "2025-04-15T07:00:00.000Z",
-        "audit_needed": "none-needed"
+        "issue_date": "2025-07-18T07:00:00.000Z",
+        "audit_needed": "1-2 audit"
       },
       "geometry": {
         "type": "Point",
@@ -2475,7 +2498,7 @@
         "contact": "Fernando Salazar",
         "email": "fsalazar@ssa-pe.com",
         "issue_date": "2025-07-21T07:00:00.000Z",
-        "audit_needed": "none-needed"
+        "audit_needed": "1-2 audit"
       },
       "geometry": {
         "type": "Point",
@@ -2497,8 +2520,8 @@
         "zip": 76118,
         "contact": "Damian Bozek",
         "email": "damianbozek@tcsengineering.com",
-        "issue_date": "2025-11-28T08:00:00.000Z",
-        "audit_needed": "none-needed"
+        "issue_date": "2025-07-16T07:00:00.000Z",
+        "audit_needed": "1-2 audit"
       },
       "geometry": {
         "type": "Point",
@@ -2543,8 +2566,8 @@
         "zip": 78249,
         "contact": "David Belser",
         "email": "David Belser <david.belser@rkci.com>",
-        "issue_date": "2025-07-28T07:00:00.000Z",
-        "audit_needed": "none-needed"
+        "issue_date": "2025-07-24T07:00:00.000Z",
+        "audit_needed": "1-2 audit"
       },
       "geometry": {
         "type": "Point",
@@ -2566,7 +2589,7 @@
         "zip": 75237,
         "contact": "Bruce Walton",
         "email": "bwalton@teamconsultants.net",
-        "issue_date": "2024-05-31T07:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -2589,7 +2612,7 @@
         "zip": 76306,
         "contact": "Todd Whisenhunt",
         "email": "ToddWTX@hotmail.com",
-        "issue_date": "2026-05-01T07:00:00.000Z",
+        "issue_date": "2023-05-01T07:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -2597,6 +2620,29 @@
         "coordinates": [
           -98.51285689999999,
           33.9411856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lab_id": "90THOM001",
+        "name": "Thompson Engineering",
+        "area": "THOMPSON ENGINEERING",
+        "address": "10665 Richmond Avenue, Building Five, Suite 192",
+        "city": "Houston",
+        "state": "TX",
+        "zip": 77042,
+        "contact": "Travis Kilgore",
+        "email": "tkilgore@thompsonengineering.com",
+        "issue_date": "2025-10-24T07:00:00.000Z",
+        "audit_needed": "none-needed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.56279339999999,
+          29.7271101
         ]
       }
     },
@@ -2612,7 +2658,7 @@
         "zip": 75047,
         "contact": "Nick Willick",
         "email": "nick.willick@terracon.com",
-        "issue_date": "2026-02-28T08:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -2635,7 +2681,7 @@
         "zip": 78249,
         "contact": "Raymond Rodriguez",
         "email": "raymond.rodriguez@terracon.com",
-        "issue_date": "2027-01-29T08:00:00.000Z",
+        "issue_date": "2024-01-29T08:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -2658,7 +2704,7 @@
         "zip": 79925,
         "contact": "Rodolfo Rascon De Lira",
         "email": "Rodolfo.Rascon@terracon.com",
-        "issue_date": "2026-02-15T08:00:00.000Z",
+        "issue_date": "2026-01-28T08:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -2681,8 +2727,8 @@
         "zip": 78577,
         "contact": "Jorge Perez",
         "email": "jorge.perez@terracon.com",
-        "issue_date": "2026-07-24T07:00:00.000Z",
-        "audit_needed": "none-needed"
+        "issue_date": "2023-07-24T07:00:00.000Z",
+        "audit_needed": "expiration"
       },
       "geometry": {
         "type": "Point",
@@ -2704,7 +2750,7 @@
         "zip": 78665,
         "contact": "Chris Border",
         "email": "chris.border@terracon.com",
-        "issue_date": "2026-11-15T08:00:00.000Z",
+        "issue_date": "2023-11-15T08:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -2727,7 +2773,7 @@
         "zip": 77845,
         "contact": "Yatish A. Jakatimath",
         "email": "yatish.jakatimath@terracon.com",
-        "issue_date": "",
+        "issue_date": "2026-03-27T07:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -2735,29 +2781,6 @@
         "coordinates": [
           -96.39267699999999,
           30.5829709
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "lab_id": "90THOM001",
-        "name": "Thompson Engineering",
-        "area": "THOMPSON ENGINEERING",
-        "address": "10665 Richmond Avenue, Building Five, Suite 192",
-        "city": "Houston",
-        "state": "TX",
-        "zip": 77042,
-        "contact": "Travis Kilgore",
-        "email": "tkilgore@thompsonengineering.com",
-        "issue_date": "2025-05-30T07:00:00.000Z",
-        "audit_needed": "none-needed"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.56279339999999,
-          29.7271101
         ]
       }
     },
@@ -2773,7 +2796,7 @@
         "zip": 76040,
         "contact": "Terry Smith Jr. & Arthur Etherly",
         "email": "TSmithJr@tsitengineering",
-        "issue_date": "2026-11-06T08:00:00.000Z",
+        "issue_date": "2023-11-06T08:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -2796,7 +2819,7 @@
         "zip": 78641,
         "contact": "Terry Smith Jr. & Arthur Etherly",
         "email": "TSmithJr@tsitengineering",
-        "issue_date": "",
+        "issue_date": "2025-12-05T08:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -2819,7 +2842,7 @@
         "zip": 77086,
         "contact": "Thomas De La Portilla",
         "email": "thomas.delaportilla@volkert.com",
-        "issue_date": "2024-05-22T07:00:00.000Z",
+        "issue_date": "2025-04-28T07:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -2842,7 +2865,7 @@
         "zip": 75032,
         "contact": "Thomas De La Portilla",
         "email": "thomas.delaportilla@volkert.com",
-        "issue_date": "2026-03-27T07:00:00.000Z",
+        "issue_date": "2023-03-27T07:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -2888,7 +2911,7 @@
         "zip": 77386,
         "contact": "Xose L. Perez",
         "email": "xose.perez@vrxglobal.com",
-        "issue_date": "2024-06-07T07:00:00.000Z",
+        "issue_date": "",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -2911,7 +2934,7 @@
         "zip": 75093,
         "contact": "Ali Entezarmahdi",
         "email": "ali.entezarmahdi@vrxglobal.com",
-        "issue_date": "2026-03-14T07:00:00.000Z",
+        "issue_date": "2023-03-14T07:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -2934,8 +2957,8 @@
         "zip": 75244,
         "contact": "Perry Kakara",
         "email": "perry.kakara@woodplc.com",
-        "issue_date": "2026-08-23T07:00:00.000Z",
-        "audit_needed": "none-needed"
+        "issue_date": "2023-08-23T07:00:00.000Z",
+        "audit_needed": "expiration"
       },
       "geometry": {
         "type": "Point",
@@ -2957,7 +2980,7 @@
         "zip": 77079,
         "contact": "Julio Salinas",
         "email": "julio.salinas@woolpert.com",
-        "issue_date": "2024-09-22T07:00:00.000Z",
+        "issue_date": "2024-10-04T07:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -2980,7 +3003,7 @@
         "zip": 75501,
         "contact": "Buddy Williams",
         "email": "bwilliams@wbseng.com",
-        "issue_date": "2026-03-14T07:00:00.000Z",
+        "issue_date": "2025-03-14T07:00:00.000Z",
         "audit_needed": "none-needed"
       },
       "geometry": {
@@ -2988,29 +3011,6 @@
         "coordinates": [
           -94.1311782,
           33.4426127
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "lab_id": "90ETT001",
-        "name": "ETTL Engineers & Consultants, Inc. (Tyler)",
-        "area": "Tyler",
-        "address": "3527 Star Rd.",
-        "city": "Whitehouse",
-        "state": "TX",
-        "zip": 75791,
-        "contact": "Owen Sanderson",
-        "email": "osanderson@ettlinc.com",
-        "issue_date": "",
-        "audit_needed": "none-needed"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.246962,
-          32.2761114
         ]
       }
     }
