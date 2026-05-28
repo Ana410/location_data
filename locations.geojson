@@ -106,7 +106,7 @@
         "contact": "Mike Looney",
         "email": "mike.looney@aguirre-fields.com",
         "issue_date": "2023-06-07T07:00:00.000Z",
-        "audit_needed": "expiration"
+        "audit_needed": "expire_audit"
       },
       "geometry": {
         "type": "Point",
@@ -175,7 +175,7 @@
         "contact": "Robert Nance",
         "email": "rnance@aggengr.com",
         "issue_date": "2023-08-31T07:00:00.000Z",
-        "audit_needed": "expiration"
+        "audit_needed": "expire_audit"
       },
       "geometry": {
         "type": "Point",
@@ -1279,7 +1279,7 @@
         "contact": "Michael Steward Jr.",
         "email": "MRSteward@garverusa.com",
         "issue_date": "2023-06-08T07:00:00.000Z",
-        "audit_needed": "expiration"
+        "audit_needed": "expire_audit"
       },
       "geometry": {
         "type": "Point",
@@ -1532,7 +1532,7 @@
         "contact": "Devarajan Chelliah",
         "email": "dchelliah@hvj.com",
         "issue_date": "2023-06-21T07:00:00.000Z",
-        "audit_needed": "expiration"
+        "audit_needed": "expire_audit"
       },
       "geometry": {
         "type": "Point",
@@ -1647,7 +1647,7 @@
         "contact": "Brian Ross",
         "email": "brian.ross@intertek.com",
         "issue_date": "2023-07-12T07:00:00.000Z",
-        "audit_needed": "expiration"
+        "audit_needed": "expire_audit"
       },
       "geometry": {
         "type": "Point",
@@ -1739,7 +1739,7 @@
         "contact": "Reddy Vuske",
         "email": "sreenath.vuske@intertek.com",
         "issue_date": "2023-07-18T07:00:00.000Z",
-        "audit_needed": "expiration"
+        "audit_needed": "expire_audit"
       },
       "geometry": {
         "type": "Point",
@@ -1785,7 +1785,7 @@
         "contact": "Josh Hartmangruber, P.E.",
         "email": "HartmangruberJ@yahoo.com",
         "issue_date": "2023-06-02T07:00:00.000Z",
-        "audit_needed": "expiration"
+        "audit_needed": "expire_audit"
       },
       "geometry": {
         "type": "Point",
@@ -2038,7 +2038,7 @@
         "contact": "Jose Melendez",
         "email": "jmelendez@relcme.com",
         "issue_date": "2023-07-06T07:00:00.000Z",
-        "audit_needed": "expiration"
+        "audit_needed": "expire_audit"
       },
       "geometry": {
         "type": "Point",
@@ -2199,7 +2199,7 @@
         "contact": "David Johnson",
         "email": "david.johnson@rkci.com",
         "issue_date": "2023-08-16T07:00:00.000Z",
-        "audit_needed": "expiration"
+        "audit_needed": "expire_audit"
       },
       "geometry": {
         "type": "Point",
@@ -2728,7 +2728,7 @@
         "contact": "Jorge Perez",
         "email": "jorge.perez@terracon.com",
         "issue_date": "2023-07-24T07:00:00.000Z",
-        "audit_needed": "expiration"
+        "audit_needed": "expire_audit"
       },
       "geometry": {
         "type": "Point",
@@ -2958,7 +2958,7 @@
         "contact": "Perry Kakara",
         "email": "perry.kakara@woodplc.com",
         "issue_date": "2023-08-23T07:00:00.000Z",
-        "audit_needed": "expiration"
+        "audit_needed": "expire_audit"
       },
       "geometry": {
         "type": "Point",
